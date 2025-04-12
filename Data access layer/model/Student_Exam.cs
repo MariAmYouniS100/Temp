@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Data_access_layer.model
+{
+    public class Student_Exam
+    {
+        [Key]
+        public int ID { get; set; }
+
+        public int ExamID { get; set; }
+        public int StudentID { get; set; }
+
+        [Column(TypeName = "decimal(5, 2)")]
+        public decimal Score { get; set; }
+
+
+        // Navigation properties
+        public Exam Exam { get; set; }
+        public Student Student { get; set; }
+    }
+}

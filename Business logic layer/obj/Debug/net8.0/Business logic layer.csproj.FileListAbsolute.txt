@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.deps.json
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.dll
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.pdb
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\bin\Debug\net8.0\Data access layer.dll
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\bin\Debug\net8.0\Data access layer.pdb
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.AssemblyInfo.cs
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business.078143C5.Up2Date
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.dll
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\refint\Business logic layer.dll
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.pdb
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\ref\Business logic layer.dll
