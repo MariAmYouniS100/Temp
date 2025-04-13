@@ -41,7 +41,7 @@ namespace Data_access_layer.model
         public virtual ICollection<Student_Assignment> Student_Assignment { get; set; } = new HashSet<Student_Assignment>();
         public virtual ICollection<Student_Exam> Student_Exam { get; set; } = new HashSet<Student_Exam>();
         public virtual ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
-        public virtual ICollection<Enrollment> Enrollments { get; set; } = new HashSet<Enrollment>();
+        public virtual ICollection<student_Course> student_Course { get; set; } = new HashSet<student_Course>();
         public virtual ICollection<student_answers> Answers { get; set; } = new HashSet<student_answers>();
         public virtual ICollection<assignment_Answer> assignment_Answer { get; set; } = new HashSet<assignment_Answer>();
 

@@ -23,5 +23,6 @@ namespace Data_access_layer.model
 
         [ForeignKey(nameof(QuestionID))]
         public virtual Questions Question { get; set; }
+        public virtual ICollection<student_answers> Answers { get; set; } = new HashSet<student_answers>();
     }
 }

@@ -11,13 +11,13 @@ namespace Data_access_layer.model
     public class assignment_Answer
     {
         [Key]
-        public int ID;
-        [ForeignKey(nameof(Assignment))]
-        public int AssignmentID { get; set; }
+        public int ID { get; set; }
         [ForeignKey(nameof(Student))]
         public int StudentID { get; set; }
         public string Answer { get; set; }
-        public virtual Assignment Assignment { get; set; }
+        [ForeignKey(nameof(assignment_question))]
+        public int assignment_question_id { get; set; }
+        public virtual assignment_question assignment_question { get; set; }
         public virtual Student Student { get; set; }
     }
 }

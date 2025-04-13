@@ -27,7 +27,6 @@ namespace Data_access_layer.model
         [StringLength(50)]
         public string Duration { get; set; }
 
-        public int durationofweek { get; set; } 
 
         [Column(TypeName = "decimal(10, 2)")]
         public decimal Price { get; set; } = 0.00m;
@@ -44,6 +43,6 @@ namespace Data_access_layer.model
         public virtual ICollection<Assignment> Assignments { get; set; } = new List<Assignment>();
         public virtual ICollection<Exam> Exams { get; set; } = new List<Exam>();
         public virtual ICollection<Revision> Revisions { get; set; } = new List<Revision>();
-        public virtual ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
+        public virtual ICollection<student_Course> student_Course { get; set; } = new List<student_Course>();
     }
 }

@@ -13,8 +13,8 @@ namespace Data_access_layer.model
         [Key]
         public int ID { get; set; }
 
-        [ForeignKey(nameof(Question))]
-        public int QuestionID { get; set; }
+        [ForeignKey(nameof(examQuestion))]
+        public int examQuestionID { get; set; }
 
         [ForeignKey(nameof(Student))]
         public int StudentID { get; set; }
@@ -22,7 +22,7 @@ namespace Data_access_layer.model
         public string AnswerText { get; set; }
 
         // Navigation properties
-        public virtual Questions Question { get; set; }
+        public virtual examQuestion examQuestion { get; set; }
         public virtual Student Student { get; set; }
     }
 

@@ -15,6 +15,7 @@ namespace Data_access_layer.model
 
         public int AssignmentID { get; set; }
         public int QuestionID { get; set; }
+        public int mark { get; set; }   
 
         // Navigation properties
         [ForeignKey(nameof(AssignmentID))]
@@ -22,5 +23,6 @@ namespace Data_access_layer.model
 
         [ForeignKey(nameof(QuestionID))]
         public virtual Questions Question { get; set; }
+        public virtual ICollection<assignment_Answer> Answers { get; set; } = new HashSet<assignment_Answer>();
     }
 }

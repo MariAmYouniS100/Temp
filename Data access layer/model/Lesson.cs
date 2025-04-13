@@ -25,7 +25,7 @@ namespace Data_access_layer.model
 
         public int OrderNumber { get; set; }
         public int num_of_views { get; set; }
-          public DateAndTime CreatedAt { get; set; } 
+          public DateTime Create_date { get; set; } 
         // Navigation properties
         public int CourseID { get; set; }
 

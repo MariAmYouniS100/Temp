@@ -2,15 +2,12 @@
 using Data_access_layer.model;
 using Microsoft.EntityFrameworkCore;
 
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-
 public class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
     {
+
     }
 
     // DbSets for all your entities
@@ -19,7 +16,7 @@ public class ApplicationDbContext : DbContext
     public DbSet<assignment_question> AssignmentQuestions { get; set; }
     public DbSet<Comment> Comments { get; set; }
     public DbSet<Course> Courses { get; set; }
-    public DbSet<Enrollment> Enrollments { get; set; }
+    public DbSet<student_Course> Enrollments { get; set; }
     public DbSet<Exam> Exams { get; set; }
     public DbSet<examQuestion> ExamQuestions { get; set; }
     public DbSet<Instructor> Instructors { get; set; }

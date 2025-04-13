@@ -24,7 +24,7 @@ namespace Data_access_layer.model
 
         public string SupportingFiles { get; set; }
 
-        public DateTime? ScheduleDate { get; set; }
+        public DateTime ScheduleDate { get; set; }
 
 
         // Navigation properties

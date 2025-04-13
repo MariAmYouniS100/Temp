@@ -36,7 +36,7 @@ namespace Data_access_layer.model
 
         [ForeignKey(nameof(LessonID))]
         public virtual Lesson Lesson { get; set; }
-        public virtual ICollection<assignment_Answer> assignment_Answer { get; set; } = new HashSet<assignment_Answer>();
+        public virtual ICollection<assignment_question> assignment_Question { get; set; } = new HashSet<assignment_question>();
         public virtual ICollection<Student_Assignment> Student_Assignment { get; set; } = new List<Student_Assignment>();
     }
 
