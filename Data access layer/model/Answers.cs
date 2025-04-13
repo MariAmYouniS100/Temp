@@ -15,8 +15,6 @@ namespace Data_access_layer.model
         [ForeignKey(nameof(Student))]
         public int StudentID { get; set; }
         public string AnswerText { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        // Navigation properties
         public Questions Question { get; set; }
         public Student Student { get; set; }
     }

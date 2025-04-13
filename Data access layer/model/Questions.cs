@@ -39,7 +39,7 @@ namespace Data_access_layer.model
         public string Content { get; set; }
 
         public Questions Question { get; set; }
-        public ICollection<Choice> Choices { get; set; }
+        public ICollection<Choice> Choices { get; set; }= new HashSet<Choice>();
     }
 
     public class Written
