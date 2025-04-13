@@ -33,6 +33,8 @@ namespace Data_access_layer.model
 
         // Navigation properties
         public Course Course { get; set; }
+        public ICollection<examQuestion> examQuestions = new HashSet<examQuestion>();
+
 
         public ICollection<Student_Exam> ExamResults { get; set; }
     }

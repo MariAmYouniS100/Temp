@@ -36,9 +36,10 @@ namespace Data_access_layer.model
 
        
         // Navigation properties
-        public ICollection<Student_Assignment> Student_Assignment { get; set; }
-        public ICollection<Student_Exam> Student_Exam { get; set; }
-        public ICollection<Comment> Comments { get; set; }
-        public ICollection<Enrollment> Enrollments { get; set; }
+        public ICollection<Student_Assignment> Student_Assignment { get; set; }=new HashSet<Student_Assignment>();
+        public ICollection<Student_Exam> Student_Exam { get; set; } = new HashSet<Student_Exam>();
+        public ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
+        public ICollection<Enrollment> Enrollments { get; set; } = new HashSet<Enrollment>();
+        public ICollection<Answers> Answers { get;set; } = new HashSet<Answers>();
     }
 }

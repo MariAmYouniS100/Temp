@@ -21,8 +21,12 @@ namespace Data_access_layer.model
         [ForeignKey(nameof(AssignmentID))]
         public Assignment Assignment { get; set; }
 
+        public ICollection<examQuestion>examQuestions= new HashSet<examQuestion>();
         public MCQ MCQ { get; set; }
         public Written Written { get; set; }
+        public ICollection<Answers> Answers { get; set; } = new HashSet<Answers>();
+
+        public ICollection<assignment_question> Choices { get; set; } = new HashSet<assignment_question>();
 
     }
     public class MCQ
