@@ -23,6 +23,7 @@ namespace Data_access_layer.model
         public string SupportingFiles { get; set; }
 
         public int OrderNumber { get; set; }
+        public int num_of_views { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

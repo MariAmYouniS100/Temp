@@ -14,7 +14,6 @@ namespace Data_access_layer.model
         [Key]
         public int ID { get; set; }
 
-        public int InstructorID { get; set; }
 
         [Required]
         [StringLength(255)]
@@ -36,7 +35,9 @@ namespace Data_access_layer.model
         [Column(TypeName = "decimal(10, 2)")]
         public decimal Price { get; set; } = 0.00m;
 
-        public string status { get; set; } 
+        public string status { get; set; }
+        public int InstructorID { get; set; }
+
         public Instructor Instructor { get; set; }
         public ICollection<Lesson> Lessons { get; set; } = new List<Lesson>();
         public ICollection<Assignment> Assignments { get; set; } = new List<Assignment>();
