@@ -1,26 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Data_access_layer.model
 {
     public class Exam
     {
         [Key]
-        public int ID { get; set; }
+        public int Id { get; set; }  // Changed from ID to Id for consistency
 
-        public int CourseID { get; set; }
+        [ForeignKey(nameof(Course))]
+        public int CourseId { get; set; }  // Changed from CourseID to CourseId
 
         [Required]
         [StringLength(255)]
         public string Title { get; set; }
 
         [Required]
-        public ExamType Type { get; set; }
+        [StringLength(50)]
+        public string Type { get; set; }  // Consider using an enum here if types are finite
 
         public int Duration { get; set; } // in minutes
 
@@ -29,20 +28,12 @@ namespace Data_access_layer.model
 
         public bool IsTimed { get; set; } = false;
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         // Navigation properties
-        public Course Course { get; set; }
-        public ICollection<examQuestion> examQuestions = new HashSet<examQuestion>();
+        public virtual Course Course { get; set; }
 
+        public virtual ICollection<examQuestion> ExamQuestions { get; set; } = new HashSet<examQuestion>();  
 
-        public ICollection<Student_Exam> ExamResults { get; set; }
-    }
-    public enum ExamType
-    {
-        MCQ,
-        [Display(Name = "True/False")]
-        TrueFalse,
-        Essay
+        public virtual ICollection<Student_Exam> StudentExams { get; set; } = new HashSet<Student_Exam>();  
     }
 }

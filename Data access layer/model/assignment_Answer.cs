@@ -8,23 +8,16 @@ using System.Threading.Tasks;
 
 namespace Data_access_layer.model
 {
-    public class Answers
+    public class assignment_Answer
     {
         [Key]
-        public int ID { get; set; }
-
-        [ForeignKey(nameof(Question))]
-        public int QuestionID { get; set; }
-
+        public int ID;
+        [ForeignKey(nameof(Assignment))]
+        public int AssignmentID { get; set; }
         [ForeignKey(nameof(Student))]
         public int StudentID { get; set; }
-
-        public string AnswerText { get; set; }
-
-        // Navigation properties
-        public virtual Questions Question { get; set; }
+        public string Answer { get; set; }
+        public virtual Assignment Assignment { get; set; }
         public virtual Student Student { get; set; }
     }
-
-
 }

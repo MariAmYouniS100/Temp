@@ -8,25 +8,22 @@ using System.Threading.Tasks;
 
 namespace Data_access_layer.model
 {
-    public class Enrollment
+    public class student_answers
     {
         [Key]
         public int ID { get; set; }
 
+        [ForeignKey(nameof(Question))]
+        public int QuestionID { get; set; }
+
+        [ForeignKey(nameof(Student))]
         public int StudentID { get; set; }
-        public int CourseID { get; set; }
 
-        public DateTime EnrollmentDate { get; set; } = DateTime.UtcNow;
-
-        [Required]
-        public string PaymentStatus { get; set; }
+        public string AnswerText { get; set; }
 
         // Navigation properties
-        [ForeignKey(nameof(StudentID))]
+        public virtual Questions Question { get; set; }
         public virtual Student Student { get; set; }
-
-        [ForeignKey(nameof(CourseID))]
-        public virtual Course Course { get; set; }
     }
 
 

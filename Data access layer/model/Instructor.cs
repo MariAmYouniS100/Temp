@@ -12,7 +12,7 @@ namespace Data_access_layer.model
     public class Instructor
     {
         [Key]
-        public int InstructorID { get; set; }
+        public int ID { get; set; }
 
         [Required]
         [StringLength(255)]

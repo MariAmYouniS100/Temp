@@ -27,8 +27,7 @@ namespace Data_access_layer.model
         [StringLength(50)]
         public string Duration { get; set; }
 
-        public DateTime startdate { get; set; }
-        public DateTime enddate { get; set; }
+        public int durationofweek { get; set; } 
 
         [Column(TypeName = "decimal(10, 2)")]
         public decimal Price { get; set; } = 0.00m;

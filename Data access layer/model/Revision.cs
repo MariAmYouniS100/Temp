@@ -26,7 +26,6 @@ namespace Data_access_layer.model
 
         public DateTime? ScheduleDate { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         // Navigation properties
         [ForeignKey(nameof(CourseID))]

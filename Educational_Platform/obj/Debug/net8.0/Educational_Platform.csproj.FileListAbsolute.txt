@@ -84,3 +84,5 @@ C:\Users\master\source\repos\Educational_Platform\Educational_Platform\obj\Debug
 C:\Users\master\source\repos\Educational_Platform\Educational_Platform\obj\Debug\net8.0\Educational_Platform.genruntimeconfig.cache
 C:\Users\master\source\repos\Educational_Platform\Educational_Platform\obj\Debug\net8.0\ref\Educational_Platform.dll
 C:\Users\master\source\repos\Educational_Platform\Educational_Platform\obj\Debug\net8.0\Educational_Platform.sourcelink.json
+C:\Users\master\source\repos\Educational_Platform\Educational_Platform\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\master\source\repos\Educational_Platform\Educational_Platform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

@@ -27,7 +27,7 @@ namespace Data_access_layer.model
         public virtual Written Written { get; set; }
 
         public virtual ICollection<examQuestion> ExamQuestions { get; set; } = new HashSet<examQuestion>();
-        public virtual ICollection<Answers> Answers { get; set; } = new HashSet<Answers>();
+        public virtual ICollection<student_answers> Answers { get; set; } = new HashSet<student_answers>();
         public virtual ICollection<assignment_question> AssignmentQuestions { get; set; } = new HashSet<assignment_question>();
     }
 
@@ -37,7 +37,7 @@ namespace Data_access_layer.model
         public int ID { get; set; }
 
         [Required]
-        [ForeignKey(nameof(Question))]
+        [ForeignKey(nameof(Questions))]
         public int QuestionID { get; set; }
 
         public string Content { get; set; }
@@ -74,7 +74,6 @@ namespace Data_access_layer.model
         [Required]
         public string Content { get; set; }
 
-        public bool IsCorrect { get; set; } = false;
 
         // Navigation properties
         public virtual MCQ MCQ { get; set; }
