@@ -18,10 +18,13 @@ namespace Data_access_layer.model
 
         [Column(TypeName = "decimal(5, 2)")]
         public decimal Score { get; set; }
-
+        public DateTime ExamDate { get; set; } 
 
         // Navigation properties
-        public Exam Exam { get; set; }
-        public Student Student { get; set; }
+        [ForeignKey(nameof(ExamID))]
+        public virtual Exam Exam { get; set; }
+
+        [ForeignKey(nameof(StudentID))]
+        public virtual Student Student { get; set; }
     }
 }

@@ -14,7 +14,6 @@ namespace Data_access_layer.model
         [Key]
         public int ID { get; set; }
 
-
         [Required]
         [StringLength(255)]
         public string Title { get; set; }
@@ -31,18 +30,21 @@ namespace Data_access_layer.model
         public DateTime startdate { get; set; }
         public DateTime enddate { get; set; }
 
-
         [Column(TypeName = "decimal(10, 2)")]
         public decimal Price { get; set; } = 0.00m;
 
         public string status { get; set; }
+
         public int InstructorID { get; set; }
 
-        public Instructor Instructor { get; set; }
-        public ICollection<Lesson> Lessons { get; set; } = new List<Lesson>();
-        public ICollection<Assignment> Assignments { get; set; } = new List<Assignment>();
-        public ICollection<Exam> Exams { get; set; } = new List<Exam>();
-        public ICollection<Revision> Revisions { get; set; } = new List<Revision>();
-        public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
+        // Navigation properties
+        [ForeignKey(nameof(InstructorID))]
+        public virtual Instructor Instructor { get; set; }
+
+        public virtual ICollection<Lesson> Lessons { get; set; } = new List<Lesson>();
+        public virtual ICollection<Assignment> Assignments { get; set; } = new List<Assignment>();
+        public virtual ICollection<Exam> Exams { get; set; } = new List<Exam>();
+        public virtual ICollection<Revision> Revisions { get; set; } = new List<Revision>();
+        public virtual ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
     }
 }

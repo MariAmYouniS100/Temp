@@ -17,7 +17,6 @@ namespace Data_access_layer.model
         public int StudentID { get; set; }
 
         public string SubmittedFiles { get; set; }
-        public string TextAnswer { get; set; }
 
         public DateTime SubmissionDate { get; set; } = DateTime.UtcNow;
 
@@ -27,8 +26,10 @@ namespace Data_access_layer.model
         public string Feedback { get; set; }
 
         // Navigation properties
-        public Assignment Assignment { get; set; }
-        public Student Student { get; set; }
+        [ForeignKey(nameof(AssignmentID))]
+        public virtual Assignment Assignment { get; set; }
 
+        [ForeignKey(nameof(StudentID))]
+        public virtual Student Student { get; set; }
     }
 }

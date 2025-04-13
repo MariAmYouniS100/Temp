@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,13 +20,18 @@ namespace Data_access_layer.model
         [Required]
         public string Content { get; set; }
 
-        public DateTime CommentDate { get; set; } = DateTime.UtcNow;
+        public DateTime CommentDate { get; set; } 
 
         public string Reply { get; set; }
 
         // Navigation properties
-        public Lesson Lesson { get; set; }
-        public Student Student { get; set; }
-        public Instructor Instructor { get; set; }
+        [ForeignKey(nameof(LessonID))]
+        public virtual Lesson Lesson { get; set; }
+
+        [ForeignKey(nameof(StudentID))]
+        public virtual Student Student { get; set; }
+
+        [ForeignKey(nameof(InstructorID))]
+        public virtual Instructor Instructor { get; set; }
     }
 }

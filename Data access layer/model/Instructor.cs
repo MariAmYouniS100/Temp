@@ -32,16 +32,13 @@ namespace Data_access_layer.model
         public string Qualifications { get; set; }
         public string Bio { get; set; }
 
-        
         [Required]
         [StringLength(255)]
         public string Password { get; set; }
 
-
-
         // Navigation properties
-        public ICollection<Course> Courses { get; set; } = new List<Course>();
-        public ICollection<Comment> Comments { get; set; }= new List<Comment>();
+        public virtual ICollection<Course> Courses { get; set; } = new List<Course>();
+        public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
     }
 
 

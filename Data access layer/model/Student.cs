@@ -10,6 +10,7 @@ namespace Data_access_layer.model
     // Student.cs
     public class Student
     {
+
         [Key]
         public int ID { get; set; }
 
@@ -34,12 +35,12 @@ namespace Data_access_layer.model
         [StringLength(255)]
         public string Password { get; set; }
 
-       
         // Navigation properties
-        public ICollection<Student_Assignment> Student_Assignment { get; set; }=new HashSet<Student_Assignment>();
-        public ICollection<Student_Exam> Student_Exam { get; set; } = new HashSet<Student_Exam>();
-        public ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
-        public ICollection<Enrollment> Enrollments { get; set; } = new HashSet<Enrollment>();
-        public ICollection<Answers> Answers { get;set; } = new HashSet<Answers>();
+        public virtual ICollection<Student_Assignment> Student_Assignment { get; set; } = new HashSet<Student_Assignment>();
+        public virtual ICollection<Student_Exam> Student_Exam { get; set; } = new HashSet<Student_Exam>();
+        public virtual ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
+        public virtual ICollection<Enrollment> Enrollments { get; set; } = new HashSet<Enrollment>();
+        public virtual ICollection<Answers> Answers { get; set; } = new HashSet<Answers>();
+
     }
 }

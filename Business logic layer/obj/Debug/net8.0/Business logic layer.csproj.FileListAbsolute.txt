@@ -13,3 +13,4 @@ C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug
 C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\refint\Business logic layer.dll
 C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.pdb
 C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\ref\Business logic layer.dll
+C:\Users\master\source\repos\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.sourcelink.json

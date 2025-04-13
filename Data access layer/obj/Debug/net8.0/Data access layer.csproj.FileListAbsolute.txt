@@ -12,3 +12,4 @@ C:\Users\master\source\repos\Educational_Platform\Data access layer\obj\Debug\ne
 C:\Users\master\source\repos\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.pdb
 C:\Users\master\source\repos\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.genruntimeconfig.cache
 C:\Users\master\source\repos\Educational_Platform\Data access layer\obj\Debug\net8.0\ref\Data access layer.dll
+C:\Users\master\source\repos\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.sourcelink.json

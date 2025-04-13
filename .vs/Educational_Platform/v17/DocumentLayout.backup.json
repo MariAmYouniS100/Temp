@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\master\\source\\repos\\Educational_Platform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\assignment_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\assignment_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student_assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student_assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\business logic layer\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|solutionrelative:business logic layer\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\business logic layer\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|solutionrelative:business logic layer\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\business logic layer\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|solutionrelative:business logic layer\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,76 +87,12 @@
       "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\data access layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\student_assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\student_assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\assignment_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\assignment_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\business logic layer\\business logic layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E25710B1-0E59-4BD0-BF56-323543D78DB2}|Business logic layer\\Business logic layer.csproj|solutionrelative:business logic layer\\business logic layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\model\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\model\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74BC37E4-EBCB-439D-89B7-BDB1457E00A5}|Educational_Platform\\Educational_Platform.csproj|c:\\users\\master\\source\\repos\\educational_platform\\educational_platform\\helperclass\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74BC37E4-EBCB-439D-89B7-BDB1457E00A5}|Educational_Platform\\Educational_Platform.csproj|solutionrelative:educational_platform\\helperclass\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|c:\\users\\master\\source\\repos\\educational_platform\\data access layer\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21679699-BA99-4106-9127-4833B349B023}|Data access layer\\Data access layer.csproj|solutionrelative:data access layer\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74BC37E4-EBCB-439D-89B7-BDB1457E00A5}|Educational_Platform\\Educational_Platform.csproj|c:\\users\\master\\source\\repos\\educational_platform\\educational_platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,67 +130,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "unitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\unitOfWork.cs",
-              "RelativeDocumentMoniker": "Business logic layer\\Repository\\unitOfWork.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\unitOfWork.cs",
-              "RelativeToolTip": "Business logic layer\\Repository\\unitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:28:11.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IunitofWork.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IunitofWork.cs",
-              "RelativeDocumentMoniker": "Business logic layer\\interfaces\\IunitofWork.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IunitofWork.cs",
-              "RelativeToolTip": "Business logic layer\\interfaces\\IunitofWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:27:29.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Comment.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Comment.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Comment.cs",
+              "RelativeToolTip": "Data access layer\\model\\Comment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:53:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Course.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Course.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Course.cs",
+              "RelativeToolTip": "Data access layer\\model\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:37:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "assignment_question.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\assignment_question.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\assignment_question.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\assignment_question.cs",
+              "RelativeToolTip": "Data access layer\\model\\assignment_question.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:33:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Assignment.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Assignment.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Assignment.cs",
+              "RelativeToolTip": "Data access layer\\model\\Assignment.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:51:38.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Answers.cs",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Answers.cs",
               "RelativeDocumentMoniker": "Data access layer\\model\\Answers.cs",
               "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Answers.cs",
               "RelativeToolTip": "Data access layer\\model\\Answers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T17:23:25.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "examQuestion.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\examQuestion.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\examQuestion.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\examQuestion.cs",
-              "RelativeToolTip": "Data access layer\\model\\examQuestion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:13:44.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Questions.cs",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Questions.cs",
               "RelativeDocumentMoniker": "Data access layer\\model\\Questions.cs",
               "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Questions.cs",
               "RelativeToolTip": "Data access layer\\model\\Questions.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T19:47:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\dbcontext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data access layer\\dbcontext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\dbcontext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data access layer\\dbcontext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:55:49.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Enrollment.cs",
+              "RelativeToolTip": "Data access layer\\model\\Enrollment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:54:50.416Z",
               "EditorCaption": ""
             },
             {
@@ -193,27 +240,153 @@
               "RelativeDocumentMoniker": "Data access layer\\model\\Exam.cs",
               "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Exam.cs",
               "RelativeToolTip": "Data access layer\\model\\Exam.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T18:47:27.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "examQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\examQuestion.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\examQuestion.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\examQuestion.cs",
+              "RelativeToolTip": "Data access layer\\model\\examQuestion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:13:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Instructor.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Instructor.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Instructor.cs",
+              "RelativeToolTip": "Data access layer\\model\\Instructor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:25:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Student.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student.cs",
+              "RelativeToolTip": "Data access layer\\model\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:36:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Revision.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Revision.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Revision.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Revision.cs",
+              "RelativeToolTip": "Data access layer\\model\\Revision.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:46:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Lesson.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Lesson.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Lesson.cs",
+              "RelativeToolTip": "Data access layer\\model\\Lesson.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:38:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Student_Exam.cs",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Exam.cs",
               "RelativeDocumentMoniker": "Data access layer\\model\\Student_Exam.cs",
               "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Exam.cs",
               "RelativeToolTip": "Data access layer\\model\\Student_Exam.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T18:48:36.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "Student_Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Assignment.cs",
+              "RelativeDocumentMoniker": "Data access layer\\model\\Student_Assignment.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Assignment.cs",
+              "RelativeToolTip": "Data access layer\\model\\Student_Assignment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:49:35.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "unitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\unitOfWork.cs",
+              "RelativeDocumentMoniker": "Business logic layer\\Repository\\unitOfWork.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\unitOfWork.cs",
+              "RelativeToolTip": "Business logic layer\\Repository\\unitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:28:11.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Business logic layer\\interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "Business logic layer\\interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:32:28.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "genericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\genericRepo.cs",
+              "RelativeDocumentMoniker": "Business logic layer\\Repository\\genericRepo.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Repository\\genericRepo.cs",
+              "RelativeToolTip": "Business logic layer\\Repository\\genericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:34:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IunitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IunitofWork.cs",
+              "RelativeDocumentMoniker": "Business logic layer\\interfaces\\IunitofWork.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\interfaces\\IunitofWork.cs",
+              "RelativeToolTip": "Business logic layer\\interfaces\\IunitofWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:27:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Data access layer.csproj",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\Data access layer.csproj",
               "RelativeDocumentMoniker": "Data access layer\\Data access layer.csproj",
@@ -221,64 +394,11 @@
               "RelativeToolTip": "Data access layer\\Data access layer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T17:12:42.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T17:12:42.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "assignment_question.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\assignment_question.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\assignment_question.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\assignment_question.cs",
-              "RelativeToolTip": "Data access layer\\model\\assignment_question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:33:25.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Assignment.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Assignment.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Assignment.cs",
-              "RelativeToolTip": "Data access layer\\model\\Assignment.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:51:38.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Student.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student.cs",
-              "RelativeToolTip": "Data access layer\\model\\Student.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:36:19.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student_Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Assignment.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Student_Assignment.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Student_Assignment.cs",
-              "RelativeToolTip": "Data access layer\\model\\Student_Assignment.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:49:35.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Business logic layer.csproj",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Business logic layer\\Business logic layer.csproj",
               "RelativeDocumentMoniker": "Business logic layer\\Business logic layer.csproj",
@@ -286,85 +406,11 @@
               "RelativeToolTip": "Business logic layer\\Business logic layer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T17:15:28.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T17:15:28.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Comment.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Comment.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Comment.cs",
-              "RelativeToolTip": "Data access layer\\model\\Comment.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:53:53.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Enrollment.cs",
-              "RelativeToolTip": "Data access layer\\model\\Enrollment.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:54:50.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Course.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Course.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Course.cs",
-              "RelativeToolTip": "Data access layer\\model\\Course.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:37:14.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Instructor.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Instructor.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Instructor.cs",
-              "RelativeToolTip": "Data access layer\\model\\Instructor.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:25:57.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Lesson.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Lesson.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Lesson.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Lesson.cs",
-              "RelativeToolTip": "Data access layer\\model\\Lesson.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:38:54.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Revision.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Revision.cs",
-              "RelativeDocumentMoniker": "Data access layer\\model\\Revision.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\model\\Revision.cs",
-              "RelativeToolTip": "Data access layer\\model\\Revision.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:46:22.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\HelperClass\\Helper.cs",
               "RelativeDocumentMoniker": "Educational_Platform\\HelperClass\\Helper.cs",
@@ -376,19 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\dbcontext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data access layer\\dbcontext\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Data access layer\\dbcontext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data access layer\\dbcontext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:55:49.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\Program.cs",
               "RelativeDocumentMoniker": "Educational_Platform\\Program.cs",
@@ -400,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\appsettings.json",
               "RelativeDocumentMoniker": "Educational_Platform\\appsettings.json",
@@ -412,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Educational_Platform.csproj",
               "DocumentMoniker": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\Educational_Platform.csproj",
               "RelativeDocumentMoniker": "Educational_Platform\\Educational_Platform.csproj",
@@ -420,8 +454,7 @@
               "RelativeToolTip": "Educational_Platform\\Educational_Platform.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T17:13:09.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T17:13:09.377Z"
             }
           ]
         }

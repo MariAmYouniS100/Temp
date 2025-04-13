@@ -13,14 +13,12 @@ namespace Data_access_layer.model
         [Key]
         public int ID { get; set; }
 
-      
-
         [Required]
         [StringLength(255)]
         public string Title { get; set; }
 
         [Required]
-        public string  Type { get; set; }
+        public string Type { get; set; }
 
         public DateTime? Deadline { get; set; }
         public string Instructions { get; set; }
@@ -33,10 +31,15 @@ namespace Data_access_layer.model
         // Navigation properties
         public int CourseID { get; set; }
         public int? LessonID { get; set; }
-        public Course Course { get; set; }
-        public Lesson Lesson { get; set; }
-        public ICollection<Student_Assignment> Submissions { get; set; } = new List<Student_Assignment>();
 
+        [ForeignKey(nameof(CourseID))]
+        public virtual Course Course { get; set; }
+
+        [ForeignKey(nameof(LessonID))]
+        public virtual Lesson Lesson { get; set; }
+
+        public virtual ICollection<Student_Assignment> Submissions { get; set; } = new List<Student_Assignment>();
     }
-    
+
+
 }

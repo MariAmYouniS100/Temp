@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace Data_access_layer.model
 {
     public class Enrollment
     {
+        [Key]
         public int EnrollmentID { get; set; }
 
         public int StudentID { get; set; }
@@ -17,12 +19,15 @@ namespace Data_access_layer.model
         public DateTime EnrollmentDate { get; set; } = DateTime.UtcNow;
 
         [Required]
-        public string PaymentStatus { get; set; } 
+        public string PaymentStatus { get; set; }
 
         // Navigation properties
-        public Student Student { get; set; } = new Student();
-        public Course Course { get; set; } = new Course();
+        [ForeignKey(nameof(StudentID))]
+        public virtual Student Student { get; set; }
+
+        [ForeignKey(nameof(CourseID))]
+        public virtual Course Course { get; set; }
     }
 
-  
+
 }
