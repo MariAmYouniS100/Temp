@@ -20,5 +20,3 @@ namespace Business_logic_layer.interfaces
     }
 
 }
-// testing push 
-// testing push 2
