@@ -9,6 +9,8 @@ namespace Business_logic_layer.interfaces
 {
     public interface IRevisionRepo : IGenericRepo<Revision> 
     {
+        public IQueryable<Revision> searchCourseBytitle(string search);
+
 
     }
 }

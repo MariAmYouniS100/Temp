@@ -8,5 +8,7 @@ namespace Business_logic_layer.interfaces
 {
     public interface ILessonRepo : IGenericRepo<Lesson>
     {
+        public IQueryable<Lesson> searchCourseBytitle(string search);
+
     }
 }

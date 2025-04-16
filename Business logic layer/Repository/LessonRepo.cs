@@ -10,10 +10,17 @@ namespace Business_logic_layer.Repository
 {
    public  class LessonRepo :genericRepo<Lesson>,ILessonRepo
     {
-       public LessonRepo(ApplicationDbContext context) : base(context)
+        private readonly ApplicationDbContext context;
+
+        public LessonRepo(ApplicationDbContext context) : base(context)
         {
+            this.context = context;
         }
-       
+        public IQueryable<Lesson> searchCourseBytitle(string search)
+        {
+            return context.Lessons.Where(_context => _context.Title.ToLower().StartsWith(search));
+
+        }
 
     }
 }

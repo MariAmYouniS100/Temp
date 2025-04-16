@@ -10,8 +10,14 @@ namespace Business_logic_layer.Repository
 {
    public class RevisionRepo :genericRepo<Revision>, IRevisionRepo
     {
+        private readonly ApplicationDbContext context;
         public RevisionRepo(ApplicationDbContext context) : base(context)
         {
+        }
+        public IQueryable<Revision> searchCourseBytitle(string search)
+        {
+            return context.Revisions.Where(c => c.Title.ToLower().StartsWith(search));
+
         }
     }
     
