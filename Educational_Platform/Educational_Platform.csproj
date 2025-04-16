@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\files\image\" />
+    <Folder Include="wwwroot\files\file\" />
+    <Folder Include="wwwroot\files\vedio\" />
   </ItemGroup>
 
   <ItemGroup>
