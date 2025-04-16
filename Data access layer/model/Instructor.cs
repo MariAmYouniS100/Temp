@@ -37,7 +37,7 @@ namespace Data_access_layer.model
         public string Password { get; set; }
 
         // Navigation properties
-        public virtual ICollection<Course> Courses { get; set; } = new List<Course>();
+      //  public virtual ICollection<Course> Courses { get; set; } = new List<Course>();
         public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
     }
 

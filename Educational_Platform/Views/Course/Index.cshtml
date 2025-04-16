@@ -1,0 +1,203 @@
+﻿@model IEnumerable<Course>
+@{
+    ViewData["Title"] = "Create Course";
+    ViewBag.Layout = "~/Views/Shared/instructorLayout.cshtml";
+
+    ViewBag.layout = "~/Views/Shared/_Layout.cshtml"==null;
+}
+
+<div class="container-fluid px-4">
+    <!-- Flash Message -->
+    @if (TempData["message"] != null)
+    {
+        <div id="flashMessage" class="alert alert-success alert-dismissible fade show shadow-sm mb-4" role="alert">
+            <div class="d-flex align-items-center">
+                <i class="fas fa-check-circle me-2"></i>
+                <div>@TempData["message"]</div>
+            </div>
+        </div>
+    }
+
+    <!-- Page Header -->
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center mb-4">
+        <div class="mb-3 mb-md-0">
+            <h1 class="h2 mb-1">
+                <i class="fas fa-book me-2 text-primary"></i>Course Management
+            </h1>
+            <p class="text-muted mb-0">View and manage all course records</p>
+        </div>
+        <div>
+            <a class="btn btn-primary" asp-action="Create">
+                <i class="fas fa-plus-circle me-2"></i>Add New Course
+            </a>
+        </div>
+    </div>
+
+    <!-- Search Card -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <form asp-action="Index" class="row g-3">
+                <div class="col-md-12">
+                    <div class="input-group">
+                        <span class="input-group-text bg-transparent">
+                            <i class="fas fa-search text-muted"></i>
+                        </span>
+                        <input type="search" class="form-control" placeholder="Search courses..." name="search">
+                        <button class="btn btn-primary" type="submit">
+                            <i class="fas fa-filter me-1"></i>Search
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Course Table Card -->
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            @if (Model != null && Model.Any())
+            {
+                <div class="table-responsive">
+                    <table class="table table-hover mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th class="ps-4">ID</th>
+                                <th>Title</th>
+                                <th>Description</th>
+                                <th>Duration</th>
+                                <th>Price</th>
+                                <th>Status</th>
+                                <th class="text-end pe-4">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var course in Model)
+                            {
+                                <tr>
+                                    <td class="ps-4 fw-semibold align-middle">#@course.ID</td>
+                                    <td class="align-middle">
+                                        <div class="fw-semibold">@course.Title</div>
+                                    </td>
+                                    <td class="align-middle">
+                                        @if (!string.IsNullOrEmpty(course.Description))
+                                        {
+                                            <div class="text-truncate" style="max-width: 200px;" data-bs-toggle="tooltip" title="@course.Description">
+                                                @course.Description
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">No description</span>
+                                        }
+                                    </td>
+                                    <td class="align-middle">
+                                        @course.Duration
+                                    </td>
+                                    <td class="text-nowrap align-middle">
+                                        @course.Price.ToString("C")
+                                    </td>
+                                    <td class="align-middle">
+                                        <span class="badge @(course.status == "Active" ? "bg-success" : "bg-secondary") rounded-pill">
+                                            @course.status
+                                        </span>
+                                    </td>
+                                    <td class="text-end pe-4 align-middle">
+                                        <div class="btn-group btn-group-sm" role="group">
+                                            <a asp-action="Details" asp-route-id="@course.ID"
+                                               class="btn btn-outline-primary" data-bs-toggle="tooltip" title="View Details">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                            <a asp-action="Edit" asp-route-id="@course.ID"
+                                               class="btn btn-outline-warning" data-bs-toggle="tooltip" title="Edit">
+                                                <i class="fas fa-edit"></i>
+                                            </a>
+                                            <form asp-action="Delete" asp-route-id="@course.ID" method="post" class="d-inline">
+                                                @Html.AntiForgeryToken()
+                                                <button type="submit" class="btn btn-outline-danger"
+                                                        data-bs-toggle="tooltip" title="Delete"
+                                                        onclick="return confirm('Are you sure you want to delete @course.Title?')">
+                                                    <i class="fas fa-trash-alt"></i>
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <div class="text-center py-5">
+                    <div class="mb-3">
+                        <i class="fas fa-book-open fa-3x text-muted"></i>
+                    </div>
+                    <h5 class="text-muted">No courses found</h5>
+                    <p class="text-muted">Try adjusting your search or add a new course</p>
+                    <a asp-action="Create" class="btn btn-primary mt-3">
+                        <i class="fas fa-plus-circle me-2"></i>Add Course
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Flash message fade out
+        setTimeout(() => {
+            const flashMsg = document.getElementById('flashMessage');
+            if (flashMsg) {
+                flashMsg.classList.add('fade');
+                setTimeout(() => flashMsg.remove(), 150);
+            }
+        }, 5000);
+
+        // Enable tooltips
+        document.addEventListener('DOMContentLoaded', function() {
+            const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+            tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl);
+            });
+        });
+    </script>
+}
+
+<style>
+    /* Table row hover effect */
+    .table-hover tbody tr {
+        transition: all 0.2s ease;
+    }
+
+        .table-hover tbody tr:hover {
+            background-color: rgba(0, 0, 0, 0.02);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+    /* Badge styling */
+    .badge.rounded-pill {
+        padding: 0.35em 0.65em;
+        font-weight: 500;
+    }
+
+    /* Vertical alignment for table cells */
+    .table td.align-middle {
+        vertical-align: middle;
+    }
+
+    /* Action buttons spacing */
+    .btn-group-sm > .btn,
+    .btn-group-sm > .form-control,
+    .btn-group-sm > .input-group-text {
+        padding: 0.25rem 0.5rem;
+    }
+
+    /* Truncated text with tooltip */
+    .text-truncate {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>

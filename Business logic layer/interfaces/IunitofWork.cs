@@ -8,6 +8,10 @@ namespace Business_logic_layer.interfaces
 {
    public interface IunitofWork
     {
+        public ICourseRepo Course { get;  set; }
+       public ILessonRepo Lesson { get; set; }
+        public IRevisionRepo Revision { get; set; }
+
         Task<int> Save();
     }
 }

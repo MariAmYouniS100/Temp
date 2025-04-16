@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\files\image\" />
+    <Folder Include="wwwroot\files\file\" />
+    <Folder Include="wwwroot\files\vedio\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +25,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
 </Project>

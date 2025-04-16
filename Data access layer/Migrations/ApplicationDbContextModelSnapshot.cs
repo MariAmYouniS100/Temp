@@ -141,16 +141,8 @@ namespace Data_access_layer.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("InstructorID")
-                        .HasColumnType("int");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(10, 2)");
-
-                    b.Property<string>("Subject")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -162,8 +154,6 @@ namespace Data_access_layer.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");
-
-                    b.HasIndex("InstructorID");
 
                     b.ToTable("Courses");
                 });
@@ -714,17 +704,6 @@ namespace Data_access_layer.Migrations
                     b.Navigation("Student");
                 });
 
-            modelBuilder.Entity("Data_access_layer.model.Course", b =>
-                {
-                    b.HasOne("Data_access_layer.model.Instructor", "Instructor")
-                        .WithMany("Courses")
-                        .HasForeignKey("InstructorID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Instructor");
-                });
-
             modelBuilder.Entity("Data_access_layer.model.Exam", b =>
                 {
                     b.HasOne("Data_access_layer.model.Course", "Course")
@@ -956,8 +935,6 @@ namespace Data_access_layer.Migrations
             modelBuilder.Entity("Data_access_layer.model.Instructor", b =>
                 {
                     b.Navigation("Comments");
-
-                    b.Navigation("Courses");
                 });
 
             modelBuilder.Entity("Data_access_layer.model.Lesson", b =>

@@ -11,12 +11,17 @@ namespace Business_logic_layer.Repository
     public class unitOfWork : IunitofWork,IDisposable
     {
         private readonly ApplicationDbContext dbcontext;
+        public ICourseRepo Course { get;  set; }
+        public ILessonRepo Lesson { get; set; }
 
+        public IRevisionRepo Revision { get; set; }
 
 
         public unitOfWork(ApplicationDbContext dbcontext)
         {
-
+            Course = new CourseRepo(dbcontext);
+            Lesson = new LessonRepo(dbcontext);
+            Revision = new RevisionRepo(dbcontext);
 
             this.dbcontext = dbcontext;
         }

@@ -21,8 +21,6 @@ namespace Data_access_layer.model
         public string Description { get; set; }
 
         [Required]
-        [StringLength(100)]
-        public string Subject { get; set; }
 
         [StringLength(50)]
         public string Duration { get; set; }
@@ -33,12 +31,12 @@ namespace Data_access_layer.model
 
         public string status { get; set; }
 
-        public int InstructorID { get; set; }
+        //public int ? InstructorID { get; set; }
 
-        // Navigation properties
-        [ForeignKey(nameof(InstructorID))]
-        public virtual Instructor Instructor { get; set; }
-
+        //// Navigation properties
+        //[ForeignKey(nameof(InstructorID))]
+        //public virtual Instructor Instructor { get; set; }
+        
         public virtual ICollection<Lesson> Lessons { get; set; } = new List<Lesson>();
         public virtual ICollection<Assignment> Assignments { get; set; } = new List<Assignment>();
         public virtual ICollection<Exam> Exams { get; set; } = new List<Exam>();
