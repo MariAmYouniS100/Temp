@@ -20,24 +20,26 @@ namespace Educational_Platform.Controllers
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
-        public async Task<IActionResult> Index(string searchString)
+        public async Task<IActionResult> Index(string search)
         {
-            try
-            {
-                var revisions = await _unitOfWork.Revision.GetAllAsync();
+            IEnumerable<Revision> revisions;
 
-                if (!string.IsNullOrEmpty(searchString))
-                {
-                    revisions =  _unitOfWork.Revision.searchCourseBytitle(searchString);
-                }
-
-                return View(revisions);
-            }
-            catch (Exception ex)
+            if (string.IsNullOrEmpty(search))
             {
-                TempData["ErrorMessage"] = "An error occurred while retrieving revisions.";
-                return RedirectToAction("Error", "Home");
+                revisions = await _unitOfWork.Revision.GetAllAsync();
             }
+            else
+            {
+                revisions = await Task.Run(() => _unitOfWork.Revision.searchCourseBytitle(search).ToList());
+            }
+
+            if (revisions == null || !revisions.Any())
+            {
+                TempData["Message"] = "No revisions found.";
+                return View(new List<Revision>());
+            }
+
+            return View(revisions);
         }
 
         [HttpGet]
@@ -45,8 +47,10 @@ namespace Educational_Platform.Controllers
         {
             try
             {
-                var revision = await _unitOfWork.Revision.GetByIdAsync(id);
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
 
+                var revision = await _unitOfWork.Revision.GetByIdAsync(id);
+                
                 if (revision == null)
                 {
                     TempData["ErrorMessage"] = "Revision not found.";

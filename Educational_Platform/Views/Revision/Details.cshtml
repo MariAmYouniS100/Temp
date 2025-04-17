@@ -2,6 +2,7 @@
 @{
     ViewData["Title"] = "Revision Details";
     Layout = "~/Views/Shared/instructorLayout.cshtml";
+    var courses = new SelectList(ViewBag.Courses, "ID", "Title");
 }
 
 <div class="container py-4">
@@ -33,7 +34,18 @@
                         <h5 class="detail-label">Course</h5>
                         <p class="detail-value">
                             <span class="badge bg-light text-dark">
-                                @(Model.Course?.Title ?? "Not assigned")
+                                @{
+                                    var course = ViewBag.Courses as IEnumerable<Course>;
+                                    var assignedCourse = course?.FirstOrDefault(c => c.ID == Model.CourseID);
+                                    if (assignedCourse != null)
+                                    {
+                                        <span class="text-success">@assignedCourse.Title</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-danger">Not Assigned</span>
+                                    }
+                                }
                             </span>
                         </p>
                     </div>

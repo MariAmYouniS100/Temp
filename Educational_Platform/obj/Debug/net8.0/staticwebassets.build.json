@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lrJ3JZ/0dS96Vsjv+exINFEs7+Flk+nl+DBLeIOHEP8=",
+  "Hash": "PAzZTjGfZWROZnFmQQXYz5KV/QO9iLw8LZw/wDs1rJk=",
   "Source": "Educational_Platform",
   "BasePath": "_content/Educational_Platform",
   "Mode": "Default",
@@ -437,6 +437,27 @@
       "OriginalItemSpec": "wwwroot\\files\\file\\mahmoudmohamed(resume).pdf"
     },
     {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/file/MahmoudMohamedCV#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8u7je5kusk",
+      "Integrity": "kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\file\\MahmoudMohamedCV.pdf"
+    },
+    {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
       "SourceId": "Educational_Platform",
       "SourceType": "Discovered",
@@ -498,6 +519,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\video\\finalMvcProject.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/video/modelcourse#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ehwpr5m4c",
+      "Integrity": "9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\video\\modelcourse.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\revision.mp4",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/video/revision#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c82blfuuh4",
+      "Integrity": "9O5NrWNV8Lrb9OhQN2LM6xRZop/nFEWbOmoZj34Ae8U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\video\\revision.mp4"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\fonts\\FontAwesome.otf",
@@ -729,6 +792,384 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\about.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/about#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfcnp66ac4",
+      "Integrity": "Q/A50IkK5baDXnwzb1MpzQrHDgIrbb883/JX406rieI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\about.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-1.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/carousel-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jcf7ggyl6",
+      "Integrity": "0OtkfH5e3JOWVfBcqdetm0fPuuVwqqv2f4vGhQ72WdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-2.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/carousel-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v2tpaccm93",
+      "Integrity": "iWYq2aHtyEygi74z/7tDBVYi4NNePHaVZcULnMHSmbo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-1.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/cat-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "krpryf9lv9",
+      "Integrity": "0HZvlrpltpyk2qAR+dF8xhXG7VzV3A6YpKCQAfdjaCo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-2.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/cat-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09j97sxrlm",
+      "Integrity": "TA9tI3HUgUjdVTXnU1U3GZmo0YpvNPLWnv2CcsL+Qlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-3.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/cat-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nvcrijgg52",
+      "Integrity": "8/ec3wDPwNs2k+b/ddPxboXGd/ZRfuGiHf8gz8FB1co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-4.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/cat-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l74e4id9w8",
+      "Integrity": "L9erEIRgENz/zHp4sa5AzEazc2/UTIPAl4Q193oT1ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-1.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/course-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ylo9guokvo",
+      "Integrity": "1qzlj50Nrdh82bOjl3nNvxMH0gVjEnVCwJveq/U8z0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\course-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-2.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/course-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1bexoi98yg",
+      "Integrity": "UwlmMh4U4uzP23Nv15lMtWLM8pmGU1B7P940mQOJqr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\course-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-3.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/course-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "93ze7z3r8r",
+      "Integrity": "JWxE5SQHUptM8q939YHNY6BV9WR4Hwvz9FyyXEYTP4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\course-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-1.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/team-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pweuwlhkuu",
+      "Integrity": "B7XTkVJsdGytySVqnvnwnmKW4Ighrg91L51AoQeZy+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-2.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/team-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mov7ql1m9g",
+      "Integrity": "JvrQk5cWxMU97KPkj1Cofweu6qcq4c37FLR77uwdXCc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-3.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/team-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w88bubj2i5",
+      "Integrity": "gJhOBCq/ThcUgVzZs+5VTXruptZQ8d16VRIAyffpyKE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-4.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/team-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzoj5jtund",
+      "Integrity": "xVlM3QoiP0DYg/m+VQse12gtgxJZLJd1b5Xcj0Bdb50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-1.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/testimonial-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "urxekhjru9",
+      "Integrity": "hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-2.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/testimonial-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "idthmlef6x",
+      "Integrity": "CmctN7WtH+GxDEoUbJIshIzNDytqm3fAHX9SeFflVh0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-3.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/testimonial-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2587veb1l",
+      "Integrity": "W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-4.jpg",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "img/testimonial-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dqrnfx4tei",
+      "Integrity": "2wAwvuXfWzjMRMMKSIL584wbqh+gqnLNBGBVBem6i6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\js\\bootstrap.js",
@@ -1023,6 +1464,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/animate/animate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kryym8p5f5",
+      "Integrity": "gKpUl/8xssABR02UMvCFPBHSAKZ+pPmFKrL37i/t2cI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.min.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/animate/animate.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rrupqaswi7",
+      "Integrity": "B+qiRdVVXVxK6KWOMidjlTtbdVmyklXpmi56Vd+ma4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1970,6 +2453,48 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/easing/easing#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4cpzj38bla",
+      "Integrity": "/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.min.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/easing/easing.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "irrmrafh02",
+      "Integrity": "DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
+    },
+    {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Educational_Platform",
       "SourceType": "Discovered",
@@ -2222,6 +2747,321 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/ajax-loader#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uwe6z5aqkv",
+      "Integrity": "Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.carousel#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fynx4m6ffa",
+      "Integrity": "h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j3wy3vomxf",
+      "Integrity": "AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3sqe7mmf4b",
+      "Integrity": "7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvb3mcnxs0",
+      "Integrity": "KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.green#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rstaz3qrjg",
+      "Integrity": "WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ktijcimzc",
+      "Integrity": "31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/assets/owl.video.play#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8sku8kfko",
+      "Integrity": "BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0d6diem58",
+      "Integrity": "j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/owl.carousel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqiqdzfsy",
+      "Integrity": "hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/owlcarousel/owl.carousel.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xre24ck5s9",
+      "Integrity": "s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\links.php",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/waypoints/links#[.{fingerprint}]?.php",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s65facuhh6",
+      "Integrity": "/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/waypoints/waypoints.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uydiqv09h2",
+      "Integrity": "No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/wow/wow#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6dwowm74tu",
+      "Integrity": "2mEX0KBL4ylqzblacDJEs0pmz9odZ9nvOQ11TbD0XpY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.min.js",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "lib/wow/wow.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8mioufvz9",
+      "Integrity": "EEFWiimQk+8Wj9ePi1TCfRzwzfro6HDeB2m6EXTGvAU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
+    },
+    {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\sass\\styles.scss",
       "SourceId": "Educational_Platform",
       "SourceType": "Discovered",
@@ -2241,6 +3081,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sass\\styles.scss"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\site.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "style/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c2tiyv64ts",
+      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\style.css",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "style/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w0fcylvet2",
+      "Integrity": "8OIwf3UMyjHokERZFWFmFzbfBUV+RESaRmpANzn2IXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style\\style.css"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\tables\\data1.json",
@@ -3927,6 +4809,88 @@
       ]
     },
     {
+      "Route": "files/file/MahmoudMohamedCV.8u7je5kusk.pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:47:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u7je5kusk"
+        },
+        {
+          "Name": "label",
+          "Value": "files/file/MahmoudMohamedCV.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="
+        }
+      ]
+    },
+    {
+      "Route": "files/file/MahmoudMohamedCV.pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:47:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="
+        }
+      ]
+    },
+    {
       "Route": "files/video/abdo.mp4",
       "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
       "Selectors": [],
@@ -4169,6 +5133,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/modelcourse.1ehwpr5m4c.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3551360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ehwpr5m4c"
+        },
+        {
+          "Name": "label",
+          "Value": "files/video/modelcourse.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/modelcourse.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3551360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/revision.c82blfuuh4.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\revision.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7520676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9O5NrWNV8Lrb9OhQN2LM6xRZop/nFEWbOmoZj34Ae8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:47:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c82blfuuh4"
+        },
+        {
+          "Name": "label",
+          "Value": "files/video/revision.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9O5NrWNV8Lrb9OhQN2LM6xRZop/nFEWbOmoZj34Ae8U="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/revision.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\revision.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7520676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9O5NrWNV8Lrb9OhQN2LM6xRZop/nFEWbOmoZj34Ae8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 12:47:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9O5NrWNV8Lrb9OhQN2LM6xRZop/nFEWbOmoZj34Ae8U="
         }
       ]
     },
@@ -5071,6 +6199,1482 @@
         {
           "Name": "integrity",
           "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "img/about.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/A50IkK5baDXnwzb1MpzQrHDgIrbb883/JX406rieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/A50IkK5baDXnwzb1MpzQrHDgIrbb883/JX406rieI="
+        }
+      ]
+    },
+    {
+      "Route": "img/about.xfcnp66ac4.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/A50IkK5baDXnwzb1MpzQrHDgIrbb883/JX406rieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfcnp66ac4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/about.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/A50IkK5baDXnwzb1MpzQrHDgIrbb883/JX406rieI="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-1.4jcf7ggyl6.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0OtkfH5e3JOWVfBcqdetm0fPuuVwqqv2f4vGhQ72WdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jcf7ggyl6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/carousel-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0OtkfH5e3JOWVfBcqdetm0fPuuVwqqv2f4vGhQ72WdE="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-1.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0OtkfH5e3JOWVfBcqdetm0fPuuVwqqv2f4vGhQ72WdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0OtkfH5e3JOWVfBcqdetm0fPuuVwqqv2f4vGhQ72WdE="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-2.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWYq2aHtyEygi74z/7tDBVYi4NNePHaVZcULnMHSmbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWYq2aHtyEygi74z/7tDBVYi4NNePHaVZcULnMHSmbo="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-2.v2tpaccm93.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWYq2aHtyEygi74z/7tDBVYi4NNePHaVZcULnMHSmbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2tpaccm93"
+        },
+        {
+          "Name": "label",
+          "Value": "img/carousel-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWYq2aHtyEygi74z/7tDBVYi4NNePHaVZcULnMHSmbo="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-1.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HZvlrpltpyk2qAR+dF8xhXG7VzV3A6YpKCQAfdjaCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HZvlrpltpyk2qAR+dF8xhXG7VzV3A6YpKCQAfdjaCo="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-1.krpryf9lv9.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HZvlrpltpyk2qAR+dF8xhXG7VzV3A6YpKCQAfdjaCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krpryf9lv9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cat-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HZvlrpltpyk2qAR+dF8xhXG7VzV3A6YpKCQAfdjaCo="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-2.09j97sxrlm.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TA9tI3HUgUjdVTXnU1U3GZmo0YpvNPLWnv2CcsL+Qlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09j97sxrlm"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cat-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TA9tI3HUgUjdVTXnU1U3GZmo0YpvNPLWnv2CcsL+Qlk="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-2.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TA9tI3HUgUjdVTXnU1U3GZmo0YpvNPLWnv2CcsL+Qlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TA9tI3HUgUjdVTXnU1U3GZmo0YpvNPLWnv2CcsL+Qlk="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-3.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/ec3wDPwNs2k+b/ddPxboXGd/ZRfuGiHf8gz8FB1co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/ec3wDPwNs2k+b/ddPxboXGd/ZRfuGiHf8gz8FB1co="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-3.nvcrijgg52.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/ec3wDPwNs2k+b/ddPxboXGd/ZRfuGiHf8gz8FB1co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nvcrijgg52"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cat-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/ec3wDPwNs2k+b/ddPxboXGd/ZRfuGiHf8gz8FB1co="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-4.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L9erEIRgENz/zHp4sa5AzEazc2/UTIPAl4Q193oT1ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9erEIRgENz/zHp4sa5AzEazc2/UTIPAl4Q193oT1ng="
+        }
+      ]
+    },
+    {
+      "Route": "img/cat-4.l74e4id9w8.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L9erEIRgENz/zHp4sa5AzEazc2/UTIPAl4Q193oT1ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l74e4id9w8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cat-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9erEIRgENz/zHp4sa5AzEazc2/UTIPAl4Q193oT1ng="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-1.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qzlj50Nrdh82bOjl3nNvxMH0gVjEnVCwJveq/U8z0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qzlj50Nrdh82bOjl3nNvxMH0gVjEnVCwJveq/U8z0A="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-1.ylo9guokvo.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qzlj50Nrdh82bOjl3nNvxMH0gVjEnVCwJveq/U8z0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylo9guokvo"
+        },
+        {
+          "Name": "label",
+          "Value": "img/course-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qzlj50Nrdh82bOjl3nNvxMH0gVjEnVCwJveq/U8z0A="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-2.1bexoi98yg.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UwlmMh4U4uzP23Nv15lMtWLM8pmGU1B7P940mQOJqr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bexoi98yg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/course-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UwlmMh4U4uzP23Nv15lMtWLM8pmGU1B7P940mQOJqr4="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-2.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UwlmMh4U4uzP23Nv15lMtWLM8pmGU1B7P940mQOJqr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UwlmMh4U4uzP23Nv15lMtWLM8pmGU1B7P940mQOJqr4="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-3.93ze7z3r8r.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWxE5SQHUptM8q939YHNY6BV9WR4Hwvz9FyyXEYTP4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93ze7z3r8r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/course-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWxE5SQHUptM8q939YHNY6BV9WR4Hwvz9FyyXEYTP4U="
+        }
+      ]
+    },
+    {
+      "Route": "img/course-3.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWxE5SQHUptM8q939YHNY6BV9WR4Hwvz9FyyXEYTP4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWxE5SQHUptM8q939YHNY6BV9WR4Hwvz9FyyXEYTP4U="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-1.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7XTkVJsdGytySVqnvnwnmKW4Ighrg91L51AoQeZy+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7XTkVJsdGytySVqnvnwnmKW4Ighrg91L51AoQeZy+0="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-1.pweuwlhkuu.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7XTkVJsdGytySVqnvnwnmKW4Ighrg91L51AoQeZy+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pweuwlhkuu"
+        },
+        {
+          "Name": "label",
+          "Value": "img/team-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7XTkVJsdGytySVqnvnwnmKW4Ighrg91L51AoQeZy+0="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-2.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JvrQk5cWxMU97KPkj1Cofweu6qcq4c37FLR77uwdXCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JvrQk5cWxMU97KPkj1Cofweu6qcq4c37FLR77uwdXCc="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-2.mov7ql1m9g.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JvrQk5cWxMU97KPkj1Cofweu6qcq4c37FLR77uwdXCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mov7ql1m9g"
+        },
+        {
+          "Name": "label",
+          "Value": "img/team-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JvrQk5cWxMU97KPkj1Cofweu6qcq4c37FLR77uwdXCc="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-3.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJhOBCq/ThcUgVzZs+5VTXruptZQ8d16VRIAyffpyKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJhOBCq/ThcUgVzZs+5VTXruptZQ8d16VRIAyffpyKE="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-3.w88bubj2i5.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJhOBCq/ThcUgVzZs+5VTXruptZQ8d16VRIAyffpyKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w88bubj2i5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/team-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJhOBCq/ThcUgVzZs+5VTXruptZQ8d16VRIAyffpyKE="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-4.fzoj5jtund.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVlM3QoiP0DYg/m+VQse12gtgxJZLJd1b5Xcj0Bdb50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzoj5jtund"
+        },
+        {
+          "Name": "label",
+          "Value": "img/team-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVlM3QoiP0DYg/m+VQse12gtgxJZLJd1b5Xcj0Bdb50="
+        }
+      ]
+    },
+    {
+      "Route": "img/team-4.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVlM3QoiP0DYg/m+VQse12gtgxJZLJd1b5Xcj0Bdb50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVlM3QoiP0DYg/m+VQse12gtgxJZLJd1b5Xcj0Bdb50="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-1.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-1.urxekhjru9.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urxekhjru9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/testimonial-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-2.idthmlef6x.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmctN7WtH+GxDEoUbJIshIzNDytqm3fAHX9SeFflVh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "idthmlef6x"
+        },
+        {
+          "Name": "label",
+          "Value": "img/testimonial-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmctN7WtH+GxDEoUbJIshIzNDytqm3fAHX9SeFflVh0="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-2.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmctN7WtH+GxDEoUbJIshIzNDytqm3fAHX9SeFflVh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmctN7WtH+GxDEoUbJIshIzNDytqm3fAHX9SeFflVh0="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-3.d2587veb1l.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2587veb1l"
+        },
+        {
+          "Name": "label",
+          "Value": "img/testimonial-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-3.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-4.dqrnfx4tei.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wAwvuXfWzjMRMMKSIL584wbqh+gqnLNBGBVBem6i6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqrnfx4tei"
+        },
+        {
+          "Name": "label",
+          "Value": "img/testimonial-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wAwvuXfWzjMRMMKSIL584wbqh+gqnLNBGBVBem6i6o="
+        }
+      ]
+    },
+    {
+      "Route": "img/testimonial-4.jpg",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wAwvuXfWzjMRMMKSIL584wbqh+gqnLNBGBVBem6i6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wAwvuXfWzjMRMMKSIL584wbqh+gqnLNBGBVBem6i6o="
         }
       ]
     },
@@ -6219,6 +8823,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/animate/animate.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKpUl/8xssABR02UMvCFPBHSAKZ+pPmFKrL37i/t2cI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKpUl/8xssABR02UMvCFPBHSAKZ+pPmFKrL37i/t2cI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/animate/animate.kryym8p5f5.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKpUl/8xssABR02UMvCFPBHSAKZ+pPmFKrL37i/t2cI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kryym8p5f5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/animate/animate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKpUl/8xssABR02UMvCFPBHSAKZ+pPmFKrL37i/t2cI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/animate/animate.min.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+qiRdVVXVxK6KWOMidjlTtbdVmyklXpmi56Vd+ma4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B+qiRdVVXVxK6KWOMidjlTtbdVmyklXpmi56Vd+ma4c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/animate/animate.min.rrupqaswi7.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B+qiRdVVXVxK6KWOMidjlTtbdVmyklXpmi56Vd+ma4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rrupqaswi7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/animate/animate.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B+qiRdVVXVxK6KWOMidjlTtbdVmyklXpmi56Vd+ma4c="
         }
       ]
     },
@@ -9913,6 +12681,170 @@
       ]
     },
     {
+      "Route": "lib/easing/easing.4cpzj38bla.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4cpzj38bla"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/easing/easing.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "lib/easing/easing.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "lib/easing/easing.min.irrmrafh02.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "irrmrafh02"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/easing/easing.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/easing/easing.min.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
       "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
@@ -10897,6 +13829,1236 @@
       ]
     },
     {
+      "Route": "lib/owlcarousel/assets/ajax-loader.gif",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/ajax-loader.uwe6z5aqkv.gif",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwe6z5aqkv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/ajax-loader.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.carousel.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.carousel.fynx4m6ffa.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fynx4m6ffa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.carousel.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.carousel.min.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.carousel.min.j3wy3vomxf.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3wy3vomxf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.carousel.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.3sqe7mmf4b.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3sqe7mmf4b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.default.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvb3mcnxs0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.default.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ktijcimzc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.green.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.min.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.rstaz3qrjg.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rstaz3qrjg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.green.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.video.play.png",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.video.play.s8sku8kfko.png",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8sku8kfko"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.video.play.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/LICENSE",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/LICENSE.x0d6diem58",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0d6diem58"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.8vqiqdzfsy.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqiqdzfsy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/owl.carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xre24ck5s9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/owl.carousel.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/waypoints/links.php",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/waypoints/links.s65facuhh6.php",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s65facuhh6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/waypoints/links.php"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/waypoints/waypoints.min.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/waypoints/waypoints.min.uydiqv09h2.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uydiqv09h2"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/waypoints/waypoints.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/wow/wow.6dwowm74tu.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mEX0KBL4ylqzblacDJEs0pmz9odZ9nvOQ11TbD0XpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dwowm74tu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/wow/wow.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mEX0KBL4ylqzblacDJEs0pmz9odZ9nvOQ11TbD0XpY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/wow/wow.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mEX0KBL4ylqzblacDJEs0pmz9odZ9nvOQ11TbD0XpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mEX0KBL4ylqzblacDJEs0pmz9odZ9nvOQ11TbD0XpY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/wow/wow.min.g8mioufvz9.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EEFWiimQk+8Wj9ePi1TCfRzwzfro6HDeB2m6EXTGvAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8mioufvz9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/wow/wow.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EEFWiimQk+8Wj9ePi1TCfRzwzfro6HDeB2m6EXTGvAU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/wow/wow.min.js",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EEFWiimQk+8Wj9ePi1TCfRzwzfro6HDeB2m6EXTGvAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Dec 2021 05:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EEFWiimQk+8Wj9ePi1TCfRzwzfro6HDeB2m6EXTGvAU="
+        }
+      ]
+    },
+    {
       "Route": "sass/styles.etf62srhi7.scss",
       "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\sass\\styles.scss",
       "Selectors": [],
@@ -10975,6 +15137,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-bkhH0880lY3GTG80076jOAbG24job+Pi/Gnq6g3SF3s="
+        }
+      ]
+    },
+    {
+      "Route": "style/site.c2tiyv64ts.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 23:04:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c2tiyv64ts"
+        },
+        {
+          "Name": "label",
+          "Value": "style/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "style/site.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 23:04:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "style/style.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8OIwf3UMyjHokERZFWFmFzbfBUV+RESaRmpANzn2IXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 01:27:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8OIwf3UMyjHokERZFWFmFzbfBUV+RESaRmpANzn2IXE="
+        }
+      ]
+    },
+    {
+      "Route": "style/style.w0fcylvet2.css",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8OIwf3UMyjHokERZFWFmFzbfBUV+RESaRmpANzn2IXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 01:27:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0fcylvet2"
+        },
+        {
+          "Name": "label",
+          "Value": "style/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8OIwf3UMyjHokERZFWFmFzbfBUV+RESaRmpANzn2IXE="
         }
       ]
     },

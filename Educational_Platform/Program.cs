@@ -2,6 +2,7 @@ using AutoMapper;
 using Business_logic_layer.interfaces;
 using Business_logic_layer.Repository;
 using Educational_Platform.MappingModel;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Educational_Platform
@@ -15,11 +16,24 @@ namespace Educational_Platform
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
-     
+
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddScoped<IunitofWork, unitOfWork>();
             builder.Services.AddAutoMapper(m => m.AddProfiles(new List<Profile> { new RevisionMapping(), new LessonMapping() }));
+
+            builder.Services.AddIdentity<Data_access_layer.model.ApplicationUser, IdentityRole>
+                (option =>
+                {
+                    option.Password.RequiredLength = 6;
+                    option.Password.RequireDigit = false;
+                    option.Password.RequireLowercase = false;
+                    option.Password.RequireUppercase = false;
+                    option.Password.RequireNonAlphanumeric = false;
+                }
+                )
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                ;
 
             var app = builder.Build();
 
@@ -36,6 +50,8 @@ namespace Educational_Platform
 
             app.UseRouting();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
 
             app.MapControllerRoute(
@@ -45,4 +61,5 @@ namespace Educational_Platform
             app.Run();
         }
     }
+
 }

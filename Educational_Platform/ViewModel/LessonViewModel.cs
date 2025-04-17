@@ -6,8 +6,7 @@ namespace Educational_Platform.ViewModel
 {
     public class LessonViewModel
     {
-        public class Lesson
-        {
+        
             [Key]
             public int ID { get; set; }
 
@@ -27,6 +26,6 @@ namespace Educational_Platform.ViewModel
 
             [ForeignKey(nameof(CourseID))]
             public virtual Course Course { get; set; }
-        }
+        
     }
 }

@@ -19,27 +19,28 @@ namespace Data_access_layer.model
         public string Email { get; set; }
 
         [StringLength(20)]
-        public string PhoneNumber { get; set; }
+        public string? PhoneNumber { get; set; }
 
         [Required]
         [StringLength(100)]
         public string Name { get; set; }
 
         [StringLength(255)]
-        public string Photo { get; set; }
+        public string? Photo { get; set; }
 
-        public string Subjects { get; set; }
-        public string Qualifications { get; set; }
-        public string Bio { get; set; }
+        public string? Subjects { get; set; }
+        public string? Qualifications { get; set; }
+        public string? Bio { get; set; }
+        public string UserId { get; set; }
 
-        [Required]
-        [StringLength(255)]
-        public string Password { get; set; }
+        [ForeignKey(nameof(UserId))]
+        public virtual ApplicationUser User { get; set; }
 
         // Navigation properties
-      //  public virtual ICollection<Course> Courses { get; set; } = new List<Course>();
+
         public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
     }
+
 
 
 

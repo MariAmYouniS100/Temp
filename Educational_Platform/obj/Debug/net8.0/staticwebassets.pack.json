@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\files\\file\\Educational Platform (3).pdf"
     },
     {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "PackagePath": "staticwebassets\\files\\file\\MahmoudMohamedCV.pdf"
+    },
+    {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudMohamed(CV).pdf",
       "PackagePath": "staticwebassets\\files\\file\\mahmoudMohamed(CV).pdf"
     },
@@ -87,6 +91,14 @@
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalang.mp4",
       "PackagePath": "staticwebassets\\files\\video\\finalang.mp4"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
+      "PackagePath": "staticwebassets\\files\\video\\modelcourse.mp4"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\revision.mp4",
+      "PackagePath": "staticwebassets\\files\\video\\revision.mp4"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\fonts\\FontAwesome.otf",
@@ -131,6 +143,78 @@
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\img\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\img\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\img\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\js\\bootstrap-datepicker.js",
@@ -187,6 +271,14 @@
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -369,6 +461,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -417,8 +517,76 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\sass\\styles.scss",
       "PackagePath": "staticwebassets\\sass\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\site.css",
+      "PackagePath": "staticwebassets\\style\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\style\\style.css",
+      "PackagePath": "staticwebassets\\style\\style.css"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\tables\\data1.json",

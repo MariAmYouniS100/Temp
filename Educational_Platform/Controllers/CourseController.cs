@@ -1,4 +1,5 @@
-﻿using Business_logic_layer.interfaces;
+﻿using AutoMapper;
+using Business_logic_layer.interfaces;
 using Business_logic_layer.Repository;
 using Data_access_layer.model;
 using Microsoft.AspNetCore.Mvc;
@@ -15,24 +16,26 @@ namespace Educational_Platform.Controllers
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
         }
 
-        public async Task<IActionResult> Index(string searchString)
+        public async Task<IActionResult> Index(string search)
         {
-            try
+            IEnumerable<Course> courses; // Renamed variable to 'courses' to avoid conflict with the 'Course' type  
+
+            if (string.IsNullOrEmpty(search))
             {
-                var courses = await _unitOfWork.Course.GetAllAsync();
-
-                if (!string.IsNullOrEmpty(searchString))
-                {
-                    courses = _unitOfWork.Course.searchCourseBytitle(searchString);
-                }
-
-                return View(courses);
+                courses = await _unitOfWork.Course.GetAllAsync();
             }
-            catch (Exception ex)
+            else
             {
-
-                return RedirectToAction("Error", "Home");
+                courses = _unitOfWork.Course.searchCourseBytitle(search);
             }
+
+            if (courses == null || !courses.Any())
+            {
+                TempData["Message"] = "No Course found.";
+                return View(new List<Course>());
+            }
+
+            return View(courses);
         }
 
         [HttpGet]
