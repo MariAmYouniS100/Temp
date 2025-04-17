@@ -30,3 +30,19 @@ D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Business logic l
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Business logic layer\obj\Debug\net8.0\refint\Business logic layer.dll
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.pdb
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Business logic layer\obj\Debug\net8.0\ref\Business logic layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.deps.json
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\bin\Debug\net8.0\Business logic layer.pdb
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\bin\Debug\net8.0\Data access layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\bin\Debug\net8.0\Data access layer.pdb
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.csproj.AssemblyReference.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.AssemblyInfoInputs.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.AssemblyInfo.cs
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.sourcelink.json
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business.078143C5.Up2Date
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\refint\Business logic layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\Business logic layer.pdb
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Business logic layer\obj\Debug\net8.0\ref\Business logic layer.dll

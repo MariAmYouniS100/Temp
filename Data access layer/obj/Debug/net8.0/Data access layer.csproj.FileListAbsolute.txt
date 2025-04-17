@@ -28,3 +28,18 @@ D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Data access laye
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.pdb
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.genruntimeconfig.cache
 D:\STUDY\ITI - .NET\PROJECTS\Final Project\Educational_Platform\Data access layer\obj\Debug\net8.0\ref\Data access layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\bin\Debug\net8.0\Data access layer.deps.json
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\bin\Debug\net8.0\Data access layer.runtimeconfig.json
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\bin\Debug\net8.0\Data access layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\bin\Debug\net8.0\Data access layer.pdb
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.csproj.AssemblyReference.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.AssemblyInfoInputs.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.AssemblyInfo.cs
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.sourcelink.json
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\refint\Data access layer.dll
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.pdb
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\Data access layer.genruntimeconfig.cache
+D:\ITI .NET\Graduation Project\Educational Platform updated\Educational_Platform\Data access layer\obj\Debug\net8.0\ref\Data access layer.dll
