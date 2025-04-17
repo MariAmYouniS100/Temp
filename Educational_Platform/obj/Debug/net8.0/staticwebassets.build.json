@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GXFsW+ETlBv1UL7CRg/XiWlJaBXAYvPnzN2A07AmLRM=",
+  "Hash": "lrJ3JZ/0dS96Vsjv+exINFEs7+Flk+nl+DBLeIOHEP8=",
   "Source": "Educational_Platform",
   "BasePath": "_content/Educational_Platform",
   "Mode": "Default",
@@ -374,12 +374,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\Educational Platform (3).pdf",
       "SourceId": "Educational_Platform",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
       "BasePath": "_content/Educational_Platform",
-      "RelativePath": "files/file/MahmoudMohamedCV#[.{fingerprint}]?.pdf",
+      "RelativePath": "files/file/Educational Platform (3)#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,11 +388,95 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8u7je5kusk",
-      "Integrity": "kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=",
+      "Fingerprint": "7iw2rkbcoy",
+      "Integrity": "D4xbRo6AvwMxC3S3N85fABpHTrtMvaBPtgp7POoj/UY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\file\\MahmoudMohamedCV.pdf"
+      "OriginalItemSpec": "wwwroot\\files\\file\\Educational Platform (3).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudMohamed(CV).pdf",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/file/mahmoudMohamed(CV)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mu9d16kj72",
+      "Integrity": "HuztY0ju/tIjVU/ZpfaJXpEIPekMXTYlLvWjUAxYx8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\file\\mahmoudMohamed(CV).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudmohamed(resume).pdf",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/file/mahmoudmohamed(resume)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jtjin098y3",
+      "Integrity": "1zsiHgm4DvU89lXsyJyKrohG7Gc8rn6sy25riU9l/XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\file\\mahmoudmohamed(resume).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/video/abdo#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxq83epyxk",
+      "Integrity": "XiWmcHJeC7xEtKbOgwYVyvk+Sx1a1bMCFP51JlvMJWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\video\\abdo.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalang.mp4",
+      "SourceId": "Educational_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
+      "BasePath": "_content/Educational_Platform",
+      "RelativePath": "files/video/finalang#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4d1y2mhhwq",
+      "Integrity": "aOUfHSHHc206lwtTntPuxdPznfWFe3uONxnFzeGCWac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\video\\finalang.mp4"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalMvcProject.mp4",
@@ -414,27 +498,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\video\\finalMvcProject.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
-      "SourceId": "Educational_Platform",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\",
-      "BasePath": "_content/Educational_Platform",
-      "RelativePath": "files/video/modelcourse#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1ehwpr5m4c",
-      "Integrity": "9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\video\\modelcourse.mp4"
     },
     {
       "Identity": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\fonts\\FontAwesome.otf",
@@ -3618,8 +3681,8 @@
       ]
     },
     {
-      "Route": "files/file/MahmoudMohamedCV.8u7je5kusk.pdf",
-      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "Route": "files/file/Educational Platform (3).7iw2rkbcoy.pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\Educational Platform (3).pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3628,7 +3691,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "86198"
+          "Value": "73418"
         },
         {
           "Name": "Content-Type",
@@ -3636,11 +3699,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\""
+          "Value": "\"D4xbRo6AvwMxC3S3N85fABpHTrtMvaBPtgp7POoj/UY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 23:38:01 GMT"
+          "Value": "Wed, 16 Apr 2025 23:39:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3650,21 +3713,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u7je5kusk"
+          "Value": "7iw2rkbcoy"
         },
         {
           "Name": "label",
-          "Value": "files/file/MahmoudMohamedCV.pdf"
+          "Value": "files/file/Educational Platform (3).pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="
+          "Value": "sha256-D4xbRo6AvwMxC3S3N85fABpHTrtMvaBPtgp7POoj/UY="
         }
       ]
     },
     {
-      "Route": "files/file/MahmoudMohamedCV.pdf",
-      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
+      "Route": "files/file/Educational Platform (3).pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\Educational Platform (3).pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3673,7 +3736,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "86198"
+          "Value": "73418"
         },
         {
           "Name": "Content-Type",
@@ -3681,11 +3744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\""
+          "Value": "\"D4xbRo6AvwMxC3S3N85fABpHTrtMvaBPtgp7POoj/UY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 23:38:01 GMT"
+          "Value": "Wed, 16 Apr 2025 23:39:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3695,7 +3758,335 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kI+xFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="
+          "Value": "sha256-D4xbRo6AvwMxC3S3N85fABpHTrtMvaBPtgp7POoj/UY="
+        }
+      ]
+    },
+    {
+      "Route": "files/file/mahmoudMohamed(CV).mu9d16kj72.pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudMohamed(CV).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuztY0ju/tIjVU/ZpfaJXpEIPekMXTYlLvWjUAxYx8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:40:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mu9d16kj72"
+        },
+        {
+          "Name": "label",
+          "Value": "files/file/mahmoudMohamed(CV).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HuztY0ju/tIjVU/ZpfaJXpEIPekMXTYlLvWjUAxYx8o="
+        }
+      ]
+    },
+    {
+      "Route": "files/file/mahmoudMohamed(CV).pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudMohamed(CV).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuztY0ju/tIjVU/ZpfaJXpEIPekMXTYlLvWjUAxYx8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:40:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HuztY0ju/tIjVU/ZpfaJXpEIPekMXTYlLvWjUAxYx8o="
+        }
+      ]
+    },
+    {
+      "Route": "files/file/mahmoudmohamed(resume).jtjin098y3.pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudmohamed(resume).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1zsiHgm4DvU89lXsyJyKrohG7Gc8rn6sy25riU9l/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtjin098y3"
+        },
+        {
+          "Name": "label",
+          "Value": "files/file/mahmoudmohamed(resume).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1zsiHgm4DvU89lXsyJyKrohG7Gc8rn6sy25riU9l/XE="
+        }
+      ]
+    },
+    {
+      "Route": "files/file/mahmoudmohamed(resume).pdf",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudmohamed(resume).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1zsiHgm4DvU89lXsyJyKrohG7Gc8rn6sy25riU9l/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1zsiHgm4DvU89lXsyJyKrohG7Gc8rn6sy25riU9l/XE="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/abdo.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2637272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XiWmcHJeC7xEtKbOgwYVyvk+Sx1a1bMCFP51JlvMJWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XiWmcHJeC7xEtKbOgwYVyvk+Sx1a1bMCFP51JlvMJWE="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/abdo.qxq83epyxk.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2637272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XiWmcHJeC7xEtKbOgwYVyvk+Sx1a1bMCFP51JlvMJWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxq83epyxk"
+        },
+        {
+          "Name": "label",
+          "Value": "files/video/abdo.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XiWmcHJeC7xEtKbOgwYVyvk+Sx1a1bMCFP51JlvMJWE="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/finalang.4d1y2mhhwq.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalang.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4065087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOUfHSHHc206lwtTntPuxdPznfWFe3uONxnFzeGCWac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:40:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4d1y2mhhwq"
+        },
+        {
+          "Name": "label",
+          "Value": "files/video/finalang.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOUfHSHHc206lwtTntPuxdPznfWFe3uONxnFzeGCWac="
+        }
+      ]
+    },
+    {
+      "Route": "files/video/finalang.mp4",
+      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalang.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4065087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aOUfHSHHc206lwtTntPuxdPznfWFe3uONxnFzeGCWac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:40:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aOUfHSHHc206lwtTntPuxdPznfWFe3uONxnFzeGCWac="
         }
       ]
     },
@@ -3778,88 +4169,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw="
-        }
-      ]
-    },
-    {
-      "Route": "files/video/modelcourse.1ehwpr5m4c.mp4",
-      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3551360"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 23:33:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1ehwpr5m4c"
-        },
-        {
-          "Name": "label",
-          "Value": "files/video/modelcourse.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM="
-        }
-      ]
-    },
-    {
-      "Route": "files/video/modelcourse.mp4",
-      "AssetFile": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3551360"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 23:33:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9wrwBmn+18j0e5VIWXUSG/qKzo+6S0uvVVMhNvDJ4dM="
         }
       ]
     },

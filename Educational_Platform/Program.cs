@@ -1,3 +1,4 @@
+using AutoMapper;
 using Business_logic_layer.interfaces;
 using Business_logic_layer.Repository;
 using Educational_Platform.MappingModel;
@@ -18,7 +19,8 @@ namespace Educational_Platform
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddScoped<IunitofWork, unitOfWork>();
-            builder.Services.AddAutoMapper(s=>s.AddProfile(new RevisionMapping()));
+            builder.Services.AddAutoMapper(m => m.AddProfiles(new List<Profile> { new RevisionMapping(), new LessonMapping() }));
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
