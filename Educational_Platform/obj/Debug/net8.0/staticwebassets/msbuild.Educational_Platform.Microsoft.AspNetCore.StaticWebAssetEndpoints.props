@@ -192,6 +192,42 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 17:04:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/file/MahmoudMohamedCV.8u7je5kusk.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\file\MahmoudMohamedCV.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8u7je5kusk"},{"Name":"integrity","Value":"sha256-kI\u002BxFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="},{"Name":"label","Value":"_content/Educational_Platform/files/file/MahmoudMohamedCV.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86198"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022kI\u002BxFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:38:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/file/MahmoudMohamedCV.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\file\MahmoudMohamedCV.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kI\u002BxFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"86198"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022kI\u002BxFlgyZI3Z3mWZZqX0xWRQcfuYPif6NHvr5s3bAUU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:38:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/video/finalMvcProject.3sxnvwaic7.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\video\finalMvcProject.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3sxnvwaic7"},{"Name":"integrity","Value":"sha256-PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw="},{"Name":"label","Value":"_content/Educational_Platform/files/video/finalMvcProject.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16822535"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:38:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/video/finalMvcProject.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\video\finalMvcProject.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16822535"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022PdZw6hAZOGv6KbFjXkNMNYCxaFgB87AIjf4RM1kd7Aw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:38:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/video/modelcourse.1ehwpr5m4c.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\video\modelcourse.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1ehwpr5m4c"},{"Name":"integrity","Value":"sha256-9wrwBmn\u002B18j0e5VIWXUSG/qKzo\u002B6S0uvVVMhNvDJ4dM="},{"Name":"label","Value":"_content/Educational_Platform/files/video/modelcourse.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3551360"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00229wrwBmn\u002B18j0e5VIWXUSG/qKzo\u002B6S0uvVVMhNvDJ4dM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:33:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Educational_Platform/files/video/modelcourse.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\video\modelcourse.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9wrwBmn\u002B18j0e5VIWXUSG/qKzo\u002B6S0uvVVMhNvDJ4dM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3551360"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00229wrwBmn\u002B18j0e5VIWXUSG/qKzo\u002B6S0uvVVMhNvDJ4dM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 23:33:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Educational_Platform/fonts/fontawesome-webfont.2hr3gl3r5x.woff2">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fontawesome-webfont.woff2'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

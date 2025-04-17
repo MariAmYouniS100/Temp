@@ -1,5 +1,8 @@
-﻿using Business_logic_layer.interfaces;
+﻿using AutoMapper;
+using Business_logic_layer.interfaces;
+using Business_logic_layer.Repository;
 using Data_access_layer.model;
+using Educational_Platform.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
@@ -9,10 +12,12 @@ namespace Educational_Platform.Controllers
     public class RevisionController : Controller
     {
         private readonly IunitofWork _unitOfWork;
+        private readonly IMapper _mapper;
 
-        public RevisionController(IunitofWork unitOfWork)
+        public RevisionController(IunitofWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
         public async Task<IActionResult> Index(string searchString)
@@ -23,14 +28,13 @@ namespace Educational_Platform.Controllers
 
                 if (!string.IsNullOrEmpty(searchString))
                 {
-                    revisions = _unitOfWork.Revision.searchCourseBytitle(searchString);
+                    revisions =  _unitOfWork.Revision.searchCourseBytitle(searchString);
                 }
 
                 return View(revisions);
             }
             catch (Exception ex)
             {
-                // Log the exception
                 TempData["ErrorMessage"] = "An error occurred while retrieving revisions.";
                 return RedirectToAction("Error", "Home");
             }
@@ -63,7 +67,7 @@ namespace Educational_Platform.Controllers
         {
             try
             {
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
+                await PopulateCoursesViewBag();
                 return View();
             }
             catch (Exception ex)
@@ -75,26 +79,34 @@ namespace Educational_Platform.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Revision revision)
+        public async Task<IActionResult> Create(RevisionModelView revisionViewModel)
         {
             try
             {
-                if (ModelState.IsValid)
+                var revision = _mapper.Map<Revision>(revisionViewModel);
+
+                // Handle file uploads
+                if (revisionViewModel.File != null)
                 {
-                    await _unitOfWork.Revision.AddAsync(revision);
-                    await _unitOfWork.Save();
-                    TempData["SuccessMessage"] = $"Revision '{revision.Title}' created successfully!";
-                    return RedirectToAction(nameof(Index));
+                    revision.Files = Helper.Helper.uploadfile(revisionViewModel.File, "file");
                 }
 
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
-                return View(revision);
+                if (revisionViewModel.VideoFile != null)
+                {
+                    revision.Video = Helper.Helper.uploadfile(revisionViewModel.VideoFile, "video");
+                }
+
+                await _unitOfWork.Revision.AddAsync(revision);
+                await _unitOfWork.Save();
+
+                TempData["SuccessMessage"] = $"Revision '{revision.Title}' created successfully!";
+                return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
             {
                 TempData["ErrorMessage"] = "An error occurred while creating the revision.";
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
-                return View(revision);
+                await PopulateCoursesViewBag();
+                return View(revisionViewModel);
             }
         }
 
@@ -111,8 +123,9 @@ namespace Educational_Platform.Controllers
                     return RedirectToAction(nameof(Index));
                 }
 
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
-                return View(revision);
+                await PopulateCoursesViewBag();
+                var revisionViewModel = _mapper.Map<RevisionModelView>(revision);
+                return View(revisionViewModel);
             }
             catch (Exception ex)
             {
@@ -123,32 +136,50 @@ namespace Educational_Platform.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Revision revision)
+        public async Task<IActionResult> Edit(int id, RevisionModelView revisionViewModel)
         {
+            if (id != revisionViewModel.ID)
+            {
+                TempData["ErrorMessage"] = "Revision ID mismatch.";
+                return RedirectToAction(nameof(Index));
+            }
+
             try
             {
-                if (id != revision.ID)
+                var revision = _mapper.Map<Revision>(revisionViewModel);
+
+                // Handle file uploads if new files are provided
+                if (revisionViewModel.File != null)
                 {
-                    TempData["ErrorMessage"] = "Revision ID mismatch.";
-                    return RedirectToAction(nameof(Index));
+                    // Delete old file if exists
+                    if (!string.IsNullOrEmpty(revision.Files))
+                    {
+                        Helper.Helper.deletefile(revision.Files, "file");
+                    }
+                    revision.Files = Helper.Helper.uploadfile(revisionViewModel.File, "file");
                 }
 
-                if (ModelState.IsValid)
+                if (revisionViewModel.VideoFile != null)
                 {
-                    _unitOfWork.Revision.UpdateAsync(revision);
-                    await _unitOfWork.Save();
-                    TempData["SuccessMessage"] = $"Revision '{revision.Title}' updated successfully!";
-                    return RedirectToAction(nameof(Index));
+                    // Delete old video if exists
+                    if (!string.IsNullOrEmpty(revision.Video))
+                    {
+                        Helper.Helper.deletefile(revision.Video, "video");
+                    }
+                    revision.Video = Helper.Helper.uploadfile(revisionViewModel.VideoFile, "video");
                 }
 
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
-                return View(revision);
+                 _unitOfWork.Revision.UpdateAsync(revision);
+                await _unitOfWork.Save();
+
+                TempData["SuccessMessage"] = $"Revision '{revision.Title}' updated successfully!";
+                return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
             {
                 TempData["ErrorMessage"] = "An error occurred while updating the revision.";
-                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
-                return View(revision);
+                await PopulateCoursesViewBag();
+                return View(revisionViewModel);
             }
         }
 
@@ -188,8 +219,19 @@ namespace Educational_Platform.Controllers
                     return RedirectToAction(nameof(Index));
                 }
 
-                _unitOfWork.Revision.DeleteAsync(revision);
-                await _unitOfWork.Save();
+                // Delete associated files if they exist
+                if (!string.IsNullOrEmpty(revision.Files))
+                {
+                    Helper.Helper.deletefile(revision.Files, "file");
+                }
+                if (!string.IsNullOrEmpty(revision.Video))
+                {
+                    Helper.Helper.deletefile(revision.Video, "video");
+                }
+
+                 _unitOfWork.Revision.DeleteAsync(revision);
+                 _unitOfWork.Save();
+
                 TempData["SuccessMessage"] = $"Revision '{revision.Title}' deleted successfully!";
                 return RedirectToAction(nameof(Index));
             }
@@ -198,6 +240,11 @@ namespace Educational_Platform.Controllers
                 TempData["ErrorMessage"] = "An error occurred while deleting the revision.";
                 return RedirectToAction(nameof(Index));
             }
+        }
+
+        private async Task PopulateCoursesViewBag()
+        {
+            ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
         }
     }
 }

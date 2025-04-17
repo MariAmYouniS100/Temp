@@ -20,9 +20,9 @@ namespace Data_access_layer.model
         public string Title { get; set; }
 
         [StringLength(255)]
-        public string VideoURL { get; set; }
+        public string Video { get; set; }
 
-        public string SupportingFiles { get; set; }
+        public string Files { get; set; }
 
         public DateTime ScheduleDate { get; set; }
 

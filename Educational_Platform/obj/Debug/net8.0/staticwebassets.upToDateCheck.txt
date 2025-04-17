@@ -13,6 +13,9 @@ wwwroot\css\font-awesome.min.css
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
+wwwroot\files\file\MahmoudMohamedCV.pdf
+wwwroot\files\video\finalMvcProject.mp4
+wwwroot\files\video\modelcourse.mp4
 wwwroot\fonts\FontAwesome.otf
 wwwroot\fonts\fontawesome-webfont.eot
 wwwroot\fonts\fontawesome-webfont.svg
