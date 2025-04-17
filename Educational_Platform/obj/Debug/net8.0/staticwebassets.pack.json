@@ -65,16 +65,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\MahmoudMohamedCV.pdf",
-      "PackagePath": "staticwebassets\\files\\file\\MahmoudMohamedCV.pdf"
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\Educational Platform (3).pdf",
+      "PackagePath": "staticwebassets\\files\\file\\Educational Platform (3).pdf"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudMohamed(CV).pdf",
+      "PackagePath": "staticwebassets\\files\\file\\mahmoudMohamed(CV).pdf"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\file\\mahmoudmohamed(resume).pdf",
+      "PackagePath": "staticwebassets\\files\\file\\mahmoudmohamed(resume).pdf"
+    },
+    {
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\abdo.mp4",
+      "PackagePath": "staticwebassets\\files\\video\\abdo.mp4"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalMvcProject.mp4",
       "PackagePath": "staticwebassets\\files\\video\\finalMvcProject.mp4"
     },
     {
-      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\modelcourse.mp4",
-      "PackagePath": "staticwebassets\\files\\video\\modelcourse.mp4"
+      "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\files\\video\\finalang.mp4",
+      "PackagePath": "staticwebassets\\files\\video\\finalang.mp4"
     },
     {
       "Id": "C:\\Users\\master\\source\\repos\\Educational_Platform\\Educational_Platform\\wwwroot\\fonts\\FontAwesome.otf",

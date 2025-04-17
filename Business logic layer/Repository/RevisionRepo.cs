@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,7 +21,16 @@ namespace Business_logic_layer.Repository
             return context.Revisions.Where(c => c.Title.ToLower().StartsWith(search));
 
         }
-        
+        //public IEnumerable<T> GetAllAsync(Expression<Func<T, bool>> criteria, string[] includes = null)
+        //{
+        //    IQueryable<T> query = _context.Set<T>();
+
+        //    if (includes != null)
+        //        foreach (var include in includes)
+        //            query = query.Include(include);
+
+        //    return query.Where(criteria).ToList();
+        //}
     }
     
 }

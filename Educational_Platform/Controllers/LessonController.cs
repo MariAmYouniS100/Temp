@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using Business_logic_layer.interfaces;
+﻿using Business_logic_layer.interfaces;
 using Data_access_layer.model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,44 +8,46 @@ namespace Educational_Platform.Controllers
     {
         private readonly IunitofWork _unitOfWork;
 
-        public IMapper Mapper { get; }
-
-        public LessonController(IunitofWork unitOfWork, IMapper mapper)
+        public LessonController(IunitofWork unitOfWork)
         {
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
-            Mapper = mapper;
-            this._unitOfWork = unitOfWork;
         }
 
         public async Task<IActionResult> Index(string searchString)
         {
             try
             {
-                var Lesson = await _unitOfWork.Lesson.GetAllAsync();
+                var lessons = await _unitOfWork.Lesson.GetAllAsync();
+                var lessonsWithCourses = lessons.Select(lesson =>
+                {
+                    lesson.Course = _unitOfWork.Course.GetByIdAsync(lesson.CourseID).Result;
+                    return lesson;
+                }).ToList();
 
                 if (!string.IsNullOrEmpty(searchString))
                 {
-                    Lesson = _unitOfWork.Lesson.searchCourseBytitle(searchString);
+                    lessonsWithCourses = _unitOfWork.Lesson.searchCourseBytitle(searchString).ToList();
                 }
 
-                return View(Lesson);
+                return View(lessonsWithCourses);
             }
             catch (Exception ex)
             {
-
                 return RedirectToAction("Error", "Home");
             }
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public async Task<IActionResult> CreateAsync()
         {
             try
             {
-                return View(new Course { status = "Active" }); // Default status
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
+                return View();
             }
             catch (Exception ex)
             {
+                TempData["ErrorMessage"] = "An error occurred while loading the create form.";
                 return RedirectToAction(nameof(Index));
             }
         }
@@ -61,13 +62,16 @@ namespace Educational_Platform.Controllers
                 {
                     await _unitOfWork.Lesson.AddAsync(lesson);
                     await _unitOfWork.Save();
-                    TempData["SuccessMessage"] = $"Course '{lesson.Title}' created successfully!";
+                    TempData["SuccessMessage"] = $"Lesson '{lesson.Title}' created successfully!";
                     return RedirectToAction(nameof(Index));
                 }
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
                 return View(lesson);
             }
             catch (Exception ex)
             {
+                TempData["ErrorMessage"] = "An error occurred while creating the Lesson.";
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
                 return View(lesson);
             }
         }
@@ -79,13 +83,14 @@ namespace Educational_Platform.Controllers
                 var Lesson = await _unitOfWork.Lesson.GetByIdAsync(id);
                 if (Lesson == null)
                 {
+                    TempData["ErrorMessage"] = "Lesson not found.";
                     return RedirectToAction(nameof(Index));
                 }
                 return View(Lesson);
             }
             catch (Exception ex)
             {
-
+                TempData["ErrorMessage"] = "An error occurred while retrieving Lesson details.";
                 return RedirectToAction(nameof(Index));
             }
         }
@@ -96,18 +101,20 @@ namespace Educational_Platform.Controllers
             try
             {
                 var Lesson = await _unitOfWork.Lesson.GetByIdAsync(id);
+
                 if (Lesson == null)
                 {
-                    TempData["ErrorMessage"] = "Course not found.";
+                    TempData["ErrorMessage"] = "Lesson not found.";
                     return RedirectToAction(nameof(Index));
                 }
 
                 ViewBag.StatusList = new List<string> { "Active", "Inactive", "Draft" };
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
                 return View(Lesson);
             }
             catch (Exception ex)
             {
-
+                TempData["ErrorMessage"] = "An error occurred while loading the edit form.";
                 return RedirectToAction(nameof(Index));
             }
         }
@@ -120,7 +127,7 @@ namespace Educational_Platform.Controllers
             {
                 if (id != Lesson.ID)
                 {
-                    TempData["ErrorMessage"] = "Course ID mismatch.";
+                    TempData["ErrorMessage"] = "Lesson ID mismatch.";
                     return RedirectToAction(nameof(Index));
                 }
 
@@ -128,16 +135,18 @@ namespace Educational_Platform.Controllers
                 {
                     _unitOfWork.Lesson.UpdateAsync(Lesson);
                     await _unitOfWork.Save();
-                    TempData["SuccessMessage"] = $"Course '{Lesson.Title}' updated successfully!";
+                    TempData["SuccessMessage"] = $"Lesson '{Lesson.Title}' updated successfully!";
                     return RedirectToAction(nameof(Index));
                 }
 
                 ViewBag.StatusList = new List<string> { "Active", "Inactive", "Draft" };
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
                 return View(Lesson);
             }
             catch (Exception ex)
             {
-
+                TempData["ErrorMessage"] = "An error occurred while updating the Lesson.";
+                ViewBag.Courses = await _unitOfWork.Course.GetAllAsync();
                 return View(Lesson);
             }
         }
@@ -150,14 +159,14 @@ namespace Educational_Platform.Controllers
                 var Lesson = await _unitOfWork.Lesson.GetByIdAsync(id);
                 if (Lesson == null)
                 {
-                    TempData["ErrorMessage"] = "Course not found.";
+                    TempData["ErrorMessage"] = "Lesson not found.";
                     return RedirectToAction(nameof(Index));
                 }
                 return View(Lesson);
             }
             catch (Exception ex)
             {
-
+                TempData["ErrorMessage"] = "An error occurred while loading the delete confirmation.";
                 return RedirectToAction(nameof(Index));
             }
         }
@@ -171,13 +180,13 @@ namespace Educational_Platform.Controllers
                 var Lesson = await _unitOfWork.Lesson.GetByIdAsync(id);
                 if (Lesson == null)
                 {
-                    TempData["ErrorMessage"] = "Course not found.";
+                    TempData["ErrorMessage"] = "Lesson not found.";
                     return RedirectToAction(nameof(Index));
                 }
 
                 _unitOfWork.Lesson.DeleteAsync(Lesson);
                 await _unitOfWork.Save();
-                TempData["SuccessMessage"] = $"Course '{Lesson.Title}' deleted successfully!";
+                TempData["SuccessMessage"] = $"Lesson '{Lesson.Title}' deleted successfully!";
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
