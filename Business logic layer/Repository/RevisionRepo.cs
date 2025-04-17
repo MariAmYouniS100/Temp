@@ -1,5 +1,6 @@
 ﻿using Business_logic_layer.interfaces;
 using Data_access_layer.model;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +20,7 @@ namespace Business_logic_layer.Repository
             return context.Revisions.Where(c => c.Title.ToLower().StartsWith(search));
 
         }
+        
     }
     
 }

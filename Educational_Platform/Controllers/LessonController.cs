@@ -1,4 +1,5 @@
-﻿using Business_logic_layer.interfaces;
+﻿using AutoMapper;
+using Business_logic_layer.interfaces;
 using Data_access_layer.model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,9 +9,12 @@ namespace Educational_Platform.Controllers
     {
         private readonly IunitofWork _unitOfWork;
 
-        public LessonController(IunitofWork unitOfWork)
+        public IMapper Mapper { get; }
+
+        public LessonController(IunitofWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
+            Mapper = mapper;
             this._unitOfWork = unitOfWork;
         }
 

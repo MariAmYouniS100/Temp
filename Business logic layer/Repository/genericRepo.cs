@@ -1,4 +1,5 @@
 ﻿using Business_logic_layer.interfaces;
+using Data_access_layer.model;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -28,9 +29,12 @@ namespace Business_logic_layer.Repository
 
         public async Task<IEnumerable<T>> GetAllAsync()
         {
-            
+            if (typeof(T) == typeof(Revision))
+                return (IEnumerable<T>)_context.Revisions.Include(d => d.Course).ToList();
+            else
+            {
                 return await _context.Set<T>().ToListAsync();
-            
+            }
         }
 
         public async Task<T> GetByIdAsync(int id)
