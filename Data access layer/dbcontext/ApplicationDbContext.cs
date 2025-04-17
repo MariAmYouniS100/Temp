@@ -1,8 +1,9 @@
 ﻿// ApplicationDbContext.cs
 using Data_access_layer.model;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-public class ApplicationDbContext : DbContext
+public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
@@ -27,5 +28,33 @@ public class ApplicationDbContext : DbContext
     public DbSet<Student_Assignment> StudentAssignments { get; set; }
     public DbSet<Student_Exam> StudentExams { get; set; }
     public DbSet<assignment_Answer> AssignmentAnswers { get; set; }
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Student>()
+            .HasOne(s => s.User)
+            .WithMany()
+            .HasForeignKey(s => s.UserId)
+            .OnDelete(DeleteBehavior.Restrict);
+
+        modelBuilder.Entity<Instructor>()
+            .HasOne(i => i.User)
+            .WithMany()
+            .HasForeignKey(i => i.UserId)
+            .OnDelete(DeleteBehavior.Restrict);
+
+        modelBuilder.Entity<ApplicationUser>()
+            .HasOne(a => a.Student)
+            .WithOne(s => s.User)
+            .HasForeignKey<ApplicationUser>(a => a.StudentId)
+            .OnDelete(DeleteBehavior.Restrict); // Optional, but safer
+
+        modelBuilder.Entity<ApplicationUser>()
+            .HasOne(a => a.Instructor)
+            .WithOne(i => i.User)
+            .HasForeignKey<ApplicationUser>(a => a.InstructorId)
+            .OnDelete(DeleteBehavior.Restrict);
+    }
 
 }

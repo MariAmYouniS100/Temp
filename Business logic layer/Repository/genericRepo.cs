@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,14 +28,23 @@ namespace Business_logic_layer.Repository
             _context.Remove(item);
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync()
+        public async Task<IEnumerable<T>> GetAllAsync(params Expression<Func<T, object>>[] includes)
         {
-            if (typeof(T) == typeof(Revision))
-                return (IEnumerable<T>)_context.Revisions.Include(d => d.Course).ToList();
-            else
+            var query = _context.Set<T>().AsQueryable();
+
+            // Handle specific entity types that need eager loading
+            if (typeof(T) == typeof(Revision) || typeof(T) == typeof(Lesson))
             {
-                return await _context.Set<T>().ToListAsync();
+                query = _context.Set<T>().Include("Course");
             }
+
+            // Apply additional includes if provided
+            foreach (var include in includes)
+            {
+                query = query.Include(include);
+            }
+
+            return await query.ToListAsync();
         }
 
         public async Task<T> GetByIdAsync(int id)

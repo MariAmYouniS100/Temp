@@ -1,4 +1,4 @@
-﻿@model Lesson
+﻿@model LessonViewModel
 @{
     ViewData["Title"] = "Edit Lesson";
     Layout = "~/Views/Shared/instructorLayout.cshtml";
@@ -25,25 +25,41 @@
                             <input asp-for="Title" class="form-control" placeholder="Enter lesson title" required />
                             <span asp-validation-for="Title" class="text-danger"></span>
                         </div>
-
-                        <!-- Supporting Files -->
-                        <div class="form-group mb-3">
-                            <label asp-for="SupportingFiles" class="form-label">Supporting Files</label>
-                            <div class="input-group">
-                                <input type="file" name="supportingFiles" class="form-control" multiple />
+                        <!-- File Upload -->
+                        <div class="mb-4">
+                            <label class="form-label fw-bold">Supporting Files</label>
+                            <div class="file-upload-wrapper">
+                                <input type="file" asp-for="Files" class="form-control" />
+                                @if (!string.IsNullOrEmpty(Model.SupportingFiles))
+                                {
+                                    <div class="mt-2">
+                                        <small class="text-muted">Current file:</small>
+                                        <a href="@Model.Files" target="_blank" class="d-block">
+                                            <i class="fas fa-file me-1"></i> @System.IO.Path.GetFileName(Model.SupportingFiles)
+                                        </a>
+                                    </div>
+                                }
+                                <span asp-validation-for="Files" class="text-danger small"></span>
                             </div>
-                            <small class="text-muted">You can upload multiple files</small>
-                            <span asp-validation-for="SupportingFiles" class="text-danger"></span>
                         </div>
 
-                        <!-- Video URL -->
-                        <div class="form-group mb-3">
-                            <label asp-for="VideoURL" class="form-label">Video URL</label>
-                            <div class="input-group">
-                                <span class="input-group-text"><i class="fas fa-link"></i></span>
-                                <input asp-for="VideoURL" type="url" class="form-control" placeholder="https://example.com/video" />
+
+                        <!-- Video Upload -->
+                        <div class="mb-4">
+                            <label class="form-label fw-bold">Video File</label>
+                            <div class="file-upload-wrapper">
+                                <input type="file" asp-for="videoFile" class="form-control" />
+                                @if (!string.IsNullOrEmpty(Model.VideoURL))
+                                {
+                                    <div class="mt-2">
+                                        <small class="text-muted">Current video:</small>
+                                        <a href="@Model.Files" target="_blank" class="d-block">
+                                            <i class="fas fa-video me-1"></i> @System.IO.Path.GetFileName(Model.VideoURL)
+                                        </a>
+                                    </div>
+                                }
+                                <span asp-validation-for="VideoURL" class="text-danger small"></span>
                             </div>
-                            <span asp-validation-for="VideoURL" class="text-danger"></span>
                         </div>
 
                         <!-- Schedule Date -->

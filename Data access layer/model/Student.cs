@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,21 +22,23 @@ namespace Data_access_layer.model
         [StringLength(20)]
         public string PhoneNumber { get; set; }
         [StringLength(20)]
-        public string fatherPhone { get; set; }
+        public string? fatherPhone { get; set; }
+
 
         [Required]
         [StringLength(100)]
         public string Name { get; set; }
 
         [StringLength(50)]
-        public string GradeLevel { get; set; }
+        public string? GradeLevel { get; set; }
 
         [StringLength(255)]
-        public string ProfilePicture { get; set; }
+        public string? ProfilePicture { get; set; }
 
-        [Required]
-        [StringLength(255)]
-        public string Password { get; set; }
+        public string UserId { get; set; }
+
+        [ForeignKey(nameof(UserId))]
+        public virtual ApplicationUser User { get; set; }
 
         // Navigation properties
         public virtual ICollection<Student_Assignment> Student_Assignment { get; set; } = new HashSet<Student_Assignment>();
