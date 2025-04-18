@@ -20,8 +20,8 @@ namespace Data_access_layer.model
 
         [StringLength(255)]
         public string VideoURL { get; set; }
-
         public string SupportingFiles { get; set; }
+        public string TaskFileName { get; set; }
 
         public int OrderNumber { get; set; }
         public int num_of_views { get; set; }

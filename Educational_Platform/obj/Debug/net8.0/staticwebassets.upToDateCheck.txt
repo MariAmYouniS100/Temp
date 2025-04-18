@@ -2,6 +2,13 @@ wwwroot\css\bootstrap.min.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\files\file\Docker 101.pdf
+wwwroot\files\file\Mapping (1).pdf
+wwwroot\files\file\Mapping (2).pdf
+wwwroot\files\file\Mapping (3).pdf
+wwwroot\files\file\Mapping (4).pdf
+wwwroot\files\file\Mapping.pdf
+wwwroot\files\video\6d74f9f7-cac3-458a-a71e-f920c04787ed_[Arabic] Learn Git _ GitHub _20 - The End And Advices(720P_HD).mp4
 wwwroot\img\about.jpg
 wwwroot\img\carousel-1.jpg
 wwwroot\img\carousel-2.jpg
